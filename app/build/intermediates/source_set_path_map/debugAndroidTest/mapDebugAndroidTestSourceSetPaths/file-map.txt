@@ -1,0 +1,35 @@
+com.example.ecommerceapp.test.app-androidTest-0 /Users/ashusingla/Ashu/Antigravity/antigravity/ECommerceApp/app/build/generated/res/resValues/androidTest/debug
+com.example.ecommerceapp.test.app-mergeDebugAndroidTestResources-1 /Users/ashusingla/Ashu/Antigravity/antigravity/ECommerceApp/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.example.ecommerceapp.test.app-mergeDebugAndroidTestResources-2 /Users/ashusingla/Ashu/Antigravity/antigravity/ECommerceApp/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.example.ecommerceapp.test.app-debugAndroidTest-3 /Users/ashusingla/Ashu/Antigravity/antigravity/ECommerceApp/app/build/intermediates/merged_res/debugAndroidTest/mergeDebugAndroidTestResources
+com.example.ecommerceapp.test.app-customview-poolingcontainer-1.0.0-4 /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/095320f0e2b4dc013c2ed203e4c4312b/transformed/customview-poolingcontainer-1.0.0/res
+com.example.ecommerceapp.test.app-emoji2-1.4.0-5 /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/0a189176b3373df16a8deb755a153f3c/transformed/emoji2-1.4.0/res
+com.example.ecommerceapp.test.app-lifecycle-viewmodel-ktx-2.9.4-6 /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/0c2dd7be5b3dbe1214999b2212e03fcb/transformed/lifecycle-viewmodel-ktx-2.9.4/res
+com.example.ecommerceapp.test.app-graphics-path-1.0.1-7 /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/1d7c9699520ee8a05a475228208c49ba/transformed/graphics-path-1.0.1/res
+com.example.ecommerceapp.test.app-tracing-1.2.0-8 /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/1ff5a706dd45b483bce0db0445409b9c/transformed/tracing-1.2.0/res
+com.example.ecommerceapp.test.app-window-1.5.0-9 /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/354042ab3770746a9469d3a73bca5521/transformed/window-1.5.0/res
+com.example.ecommerceapp.test.app-core-1.5.0-10 /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/376fcbdb49c104ce3bddb11aaaa05eb9/transformed/core-1.5.0/res
+com.example.ecommerceapp.test.app-ui-test-11 /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/53960314b8c0d34d645b79d41ed6ae5c/transformed/ui-test/res
+com.example.ecommerceapp.test.app-transition-1.6.0-12 /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/58bb4c6721e81c23aa195be088d47db6/transformed/transition-1.6.0/res
+com.example.ecommerceapp.test.app-startup-runtime-1.1.1-13 /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/5c26564d93c639804ec814da7a1333a7/transformed/startup-runtime-1.1.1/res
+com.example.ecommerceapp.test.app-activity-ktx-1.8.2-14 /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/5ca6395382a3451c48374f4c7290e1c4/transformed/activity-ktx-1.8.2/res
+com.example.ecommerceapp.test.app-ui-text-15 /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/5e4a771c67aa8b03b52eb2dc59dc9e26/transformed/ui-text/res
+com.example.ecommerceapp.test.app-activity-1.8.2-16 /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/6da1498004dc7d563596c5ae0791bba0/transformed/activity-1.8.2/res
+com.example.ecommerceapp.test.app-core-ktx-1.16.0-17 /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/7a1b385294951e224e0e38ea19debcf5/transformed/core-ktx-1.16.0/res
+com.example.ecommerceapp.test.app-ui-18 /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/7da58698d6513add4e144c203f2879c9/transformed/ui/res
+com.example.ecommerceapp.test.app-lifecycle-process-2.9.4-19 /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/7e7783abf0dc6cf9692a1c6e1f621c0f/transformed/lifecycle-process-2.9.4/res
+com.example.ecommerceapp.test.app-savedstate-ktx-1.3.2-20 /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/839700fbc9979a04441e488d69df15e5/transformed/savedstate-ktx-1.3.2/res
+com.example.ecommerceapp.test.app-lifecycle-runtime-compose-release-21 /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/97971a10faddd454e091a52755d1fbbd/transformed/lifecycle-runtime-compose-release/res
+com.example.ecommerceapp.test.app-profileinstaller-1.4.0-22 /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/9e6f7b34243ad6fe48ba44c070be579f/transformed/profileinstaller-1.4.0/res
+com.example.ecommerceapp.test.app-ui-graphics-23 /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/a020b86d9c82ff84f6ed078babad060e/transformed/ui-graphics/res
+com.example.ecommerceapp.test.app-core-1.16.0-24 /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/acd9b07c7c51bbb3a67c029e94fb6ab4/transformed/core-1.16.0/res
+com.example.ecommerceapp.test.app-core-runtime-2.2.0-25 /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/b1c9eb12ea2a549d9e4df4d4aa5e0205/transformed/core-runtime-2.2.0/res
+com.example.ecommerceapp.test.app-runtime-saveable-26 /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/bb6dc6ee05e22ddccead2268ff900c4c/transformed/runtime-saveable/res
+com.example.ecommerceapp.test.app-activity-compose-1.8.2-27 /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/bdb70bc7a9ad251f9446aa58a62f1eff/transformed/activity-compose-1.8.2/res
+com.example.ecommerceapp.test.app-lifecycle-viewmodel-savedstate-release-28 /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/c5a3af37cb3902e0acab45fb629eca0e/transformed/lifecycle-viewmodel-savedstate-release/res
+com.example.ecommerceapp.test.app-lifecycle-runtime-release-29 /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/cf23abc6299baf28d9ad4eecd4cbe2d6/transformed/lifecycle-runtime-release/res
+com.example.ecommerceapp.test.app-savedstate-release-30 /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/e113a868c920acf065ac4bb4765815d9/transformed/savedstate-release/res
+com.example.ecommerceapp.test.app-lifecycle-viewmodel-release-31 /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/e4858ba2174d46adfbd3930ae9b0fb1a/transformed/lifecycle-viewmodel-release/res
+com.example.ecommerceapp.test.app-lifecycle-livedata-core-2.9.4-32 /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/e5e3ad5c69c555c39b974adbc5f4fdf2/transformed/lifecycle-livedata-core-2.9.4/res
+com.example.ecommerceapp.test.app-annotation-experimental-1.4.1-33 /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/f046af2c99af2ef959b16727f7680371/transformed/annotation-experimental-1.4.1/res
+com.example.ecommerceapp.test.app-core-viewtree-1.0.0-34 /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/f623005a01b8853de634218d1d70f2a8/transformed/core-viewtree-1.0.0/res

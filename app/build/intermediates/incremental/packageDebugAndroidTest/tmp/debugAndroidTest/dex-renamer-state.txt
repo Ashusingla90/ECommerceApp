@@ -1,0 +1,7 @@
+#Wed Apr 08 16:04:59 IST 2026
+base.0=/Users/ashusingla/Ashu/Antigravity/antigravity/ECommerceApp/app/build/intermediates/dex/debugAndroidTest/mergeExtDexDebugAndroidTest/classes.dex
+base.1=/Users/ashusingla/Ashu/Antigravity/antigravity/ECommerceApp/app/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/0/classes.dex
+path.0=classes.dex
+path.1=0/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
