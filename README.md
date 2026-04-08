@@ -35,12 +35,6 @@ A modern Android E-Commerce application built with **Kotlin** and **Jetpack Comp
 
 ---
 
-## 📸 Screenshots
-
-| Login Screen | Product Listing | Product Details |
-|---|---|---|
-| ![Login](Screenshot/LoginScreen.jpeg) | ![Products](screenshots/products.png) | ![Details](screenshots/details.png) |
-
 # Screenshots
 
 Here are the screenshots of the app screens:
