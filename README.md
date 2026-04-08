@@ -35,9 +35,29 @@ A modern Android E-Commerce application built with **Kotlin** and **Jetpack Comp
 
 ---
 
+## 📸 Screenshots
+
+| Login Screen | Product Listing | Product Details |
+|---|---|---|
+| ![Login](Screenshot/LoginScreen.jpeg) | ![Products](screenshots/products.png) | ![Details](screenshots/details.png) |
+
+# Screenshots
+
+Here are the screenshots of the app screens:
+| Login Screen | Register Screen | Home Screen |
+|---|---|---|
+| ![Register Screen](app/src/main/res/drawable/Screenshot/RegisterScreen.jpeg) | ![Login Screen](app/src/main/res/drawable/Screenshot/LoginScreen.jpeg) | ![Home Screen](app/src/main/res/drawable/Screenshot/HomeScreen.jpeg) |
+
+| Upload Product Screen | Description Screen | Favourite Screen |
+|---|---|---|
+| ![Upload Product Screen](app/src/main/res/drawable/Screenshot/UploadProduct.jpeg) | ![Description Screen](app/src/main/res/drawable/Screenshot/DescriptionScreen.jpeg) | ![Favourite Screen](app/src/main/res/drawable/Screenshot/FavScreen.jpeg) |
+
+
+
 ## 🔌 API Used
 
 This project uses the [FakeStore API](https://fakestoreapi.com/) for sample e-commerce product data.
+
 
 ---
 
