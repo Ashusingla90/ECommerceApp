@@ -97,7 +97,6 @@ app/
 
 ## 📌 Future Improvements
 
-- ❤️ Wishlist functionality
 - 🛒 Full cart and checkout flow
 - 💳 Payment gateway integration
 - 🌙 Dark mode support
