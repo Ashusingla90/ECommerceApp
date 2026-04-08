@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.ecommerceapp.test.app-mergeDebugAndroidTestResources-1:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/Users/ashusingla/Desktop/Android Developer/caches/transforms-4/d5102832a10001bcd2e2bfe93bc1cc91/transformed/core-1.12.0/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                }
+            ]
+        }
+    ]
+}

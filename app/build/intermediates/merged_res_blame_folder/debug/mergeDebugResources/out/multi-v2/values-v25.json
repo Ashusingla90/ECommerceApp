@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.ecommerceapp-mergeDebugResources-3:/values-v25/values-v25.xml",
+            "map": [
+                {
+                    "source": "/Users/ashusingla/Desktop/Android Developer/caches/transforms-4/3caa9f92de9facab6b4a86ea17847429/transformed/appcompat-1.6.1/res/values-v25/values-v25.xml",
+                    "from": {
+                        "startLines": "2,3,4,6",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,126,209,308",
+                        "endLines": "2,3,5,7",
+                        "endColumns": "70,82,12,12",
+                        "endOffsets": "121,204,303,414"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,932 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/ashusingla/Ashu/Antigravity/antigravity/ECommerceApp/app/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /Users/ashusingla/Ashu/Antigravity/antigravity/ECommerceApp/app/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /Users/ashusingla/Ashu/Antigravity/antigravity/ECommerceApp/app/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /Users/ashusingla/Ashu/Antigravity/antigravity/ECommerceApp/app/src/main/AndroidManifest.xml:2:1-20:12
+MERGED from [androidx.hilt:hilt-navigation-compose:1.1.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/70870bfd29b20eaf1bfd9fed6c1ab2d4/transformed/hilt-navigation-compose-1.1.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.hilt:hilt-navigation:1.1.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/c04f048654c870c659f4bff3dd771272/transformed/hilt-navigation-1.1.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-common:2.7.6] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/ad95da6376a20dccebd2954908eb6397/transformed/navigation-common-2.7.6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime:2.7.6] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/1556952c7d16f1d7f5fdbd74584aca69/transformed/navigation-runtime-2.7.6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.7.6] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/7ef315b221e81ecc08e1c03ee4bc3b73/transformed/navigation-common-ktx-2.7.6/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.7.6] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/7b25e6f2b399c739250b55e497d4e5ef/transformed/navigation-runtime-ktx-2.7.6/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-compose:2.7.6] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/dac27cee9b6a20526d34df50c84a4260/transformed/navigation-compose-2.7.6/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material3:material3-android:1.4.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/a31a7a877c99939c6840929d23f6831b/transformed/material3/AndroidManifest.xml:17:1-22:12
+MERGED from [io.coil-kt:coil-compose:2.5.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/3349fb3fd16d584b9fbe7be22e7e11ff/transformed/coil-compose-2.5.0/AndroidManifest.xml:2:1-7:12
+MERGED from [io.coil-kt:coil-compose-base:2.5.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/9df52635a336baf577a006230d561801/transformed/coil-compose-base-2.5.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-android:1.10.5] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/fd75a080a8b1677be03c6718bfc658e7/transformed/material/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-core-android:1.10.5] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/f033c94574d4dad5f9176fe3cf7baeb3/transformed/animation-core/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-ripple-android:1.10.5] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/59f8c967b9153e5f2ee7b42efdd3a9e2/transformed/material-ripple/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-android:1.10.5] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/b112644cc36036bd01c3255ae38a8ce2/transformed/animation/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.10.5] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/35f1c52babb83bf262471693a29a7573/transformed/foundation-layout/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-android:1.10.5] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/cd11c1b907e9c9d5d0b7172e1af49db3/transformed/foundation/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.10.5] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/4a8ba47a1baf27b34d6ef59db5bf0c3a/transformed/ui-tooling-data/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-unit-android:1.10.5] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/a086f022017976b6b01dae27ca525c79/transformed/ui-unit/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-geometry-android:1.10.5] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/9e708cb69ac446eb20ec436fd8f13e7d/transformed/ui-geometry/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-util-android:1.10.5] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/f6d19b9ee4d82f5d2832a2e84c5be279/transformed/ui-util/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-text-android:1.10.5] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/5e4a771c67aa8b03b52eb2dc59dc9e26/transformed/ui-text/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.10.5] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/482c684f0710a4520810867aebd7ad10/transformed/ui-tooling-preview/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-tooling-android:1.10.5] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/0322e8c3ecb46711c8773cd4fa2260eb/transformed/ui-tooling/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.compose.ui:ui-graphics-android:1.10.5] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/a020b86d9c82ff84f6ed078babad060e/transformed/ui-graphics/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-test-manifest:1.10.5] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/222002482ee9822fea11bbea34331fa5/transformed/ui-test-manifest-1.10.5/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.accompanist:accompanist-drawablepainter:0.32.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/2ce55b26c6f16f19cddea27d4b023766/transformed/accompanist-drawablepainter-0.32.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.compose.material:material-icons-extended-android:1.7.8] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/02819a10923fb6ccc71c52c0611af18c/transformed/material-icons-extended-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-icons-core-android:1.7.8] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/652b3b6ed9e480b870eadaea8e0e46e4/transformed/material-icons-core-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-annotation-android:1.10.5] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/d990591ce8e6f55c0ef4cf663466bcdc/transformed/runtime-annotation/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-retain-android:1.10.5] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/ca7c8f678e64fb80ff88545e3705244e/transformed/runtime-retain/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.dagger:hilt-android:2.51.1] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/9b47548b1eec809423a1364c5d948ccf/transformed/hilt-android-2.51.1/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.firebase:firebase-auth-ktx:23.1.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/3ef04ff256ff1930c5baaa7b68fedfcd/transformed/firebase-auth-ktx-23.1.0/AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.firebase:firebase-auth:23.1.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/1f71e6ff5900830f009a8b6ed7cf6206/transformed/firebase-auth-23.1.0/AndroidManifest.xml:17:1-75:12
+MERGED from [androidx.credentials:credentials-play-services-auth:1.6.0-beta01] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/4fe69566f084aaaedc31b8d01f0a4b49/transformed/credentials-play-services-auth-1.6.0-beta01/AndroidManifest.xml:17:1-52:12
+MERGED from [com.google.android.libraries.identity.googleid:googleid:1.2.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/5ecce45013c4d63863b9799d4988791f/transformed/googleid-1.2.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.credentials:credentials:1.6.0-beta01] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/c4f78129cf7cf6a6ea39b6ea858e2f2a/transformed/credentials-1.6.0-beta01/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.biometric:biometric:1.1.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/4608d1c126d0b6ed30ddce8d6157095f/transformed/biometric-1.1.0/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-auth:21.1.1] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/f7286f980c42d34c7fd18ba0409c3450/transformed/play-services-auth-21.1.1/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.firebase:firebase-storage-ktx:21.0.1] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/f9fe9676622d9c5815d8fa1123407dbf/transformed/firebase-storage-ktx-21.0.1/AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.firebase:firebase-storage:21.0.1] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/115542e1b04880adeef6fcfc286359c8/transformed/firebase-storage-21.0.1/AndroidManifest.xml:15:1-39:12
+MERGED from [com.google.firebase:firebase-database-ktx:21.0.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/6e0aff42f7afd64bb1ae9671aa24ff65/transformed/firebase-database-ktx-21.0.0/AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.firebase:firebase-database:21.0.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/3d7dabfbec4f2d512f2cb7c25c06cddd/transformed/firebase-database-21.0.0/AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.firebase:firebase-firestore-ktx:25.1.1] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/c2995e7f6755f89a0e4df80e30557036/transformed/firebase-firestore-ktx-25.1.1/AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.firebase:firebase-firestore:25.1.1] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/fd74d5150fdc378103f9d789eecbf5b4/transformed/firebase-firestore-25.1.1/AndroidManifest.xml:2:1-26:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.2] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/a1aa41b47231c17aa9be6e672685ea5a/transformed/play-services-auth-api-phone-18.0.2/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-appcheck:18.0.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/0ed34929800a7adc92600f4c32fb14f0/transformed/firebase-appcheck-18.0.0/AndroidManifest.xml:15:1-34:12
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/bc339cce731e46d3fb7fe28941954375/transformed/firebase-appcheck-interop-17.1.0/AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/550968d1dcaf8991958ab1a2ba89c815/transformed/firebase-database-collection-18.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-fido:21.0.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/82a6649b6895587fb227000b2746896a/transformed/play-services-fido-21.0.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-auth-blockstore:16.4.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/db346bd97f71015e0d34c72c2ad63afd/transformed/play-services-auth-blockstore-16.4.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-identity-credentials:16.0.0-alpha08] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/dc8e4050be171eb9e872ac84cdc057f5/transformed/play-services-identity-credentials-16.0.0-alpha08/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.10] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/bd4ba58671dbfe595c8c806f350fa113/transformed/play-services-auth-base-18.0.10/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-base:18.5.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/d01b8b8ca801b00ac2b56fea7dbc2e3c/transformed/play-services-base-18.5.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/4502c8cbf212f4e115d0001391513c8b/transformed/firebase-common-ktx-21.0.0/AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/28f0268809689927d39038368de9aa36/transformed/firebase-auth-interop-20.0.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-common:21.0.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/f03283033be74c40946f95a679cb0739/transformed/firebase-common-21.0.0/AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.android.recaptcha:recaptcha:18.5.1] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/f35f3efd922eeb8d3ab217e4106f668a/transformed/recaptcha-18.5.1/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.play:integrity:1.3.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/f178133e8e7a68bfe479b051f77cbf4f/transformed/integrity-1.3.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.room:room-runtime:2.6.1] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/deabe68f00b9e56b2d11103ed405b1a6/transformed/room-runtime-2.6.1/AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.room:room-ktx:2.6.1] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/a730cce24318bf50dc79db25b2ef6bbe/transformed/room-ktx-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [io.coil-kt:coil:2.5.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/5fa08788352add0d6558cf9083cc8756/transformed/coil-2.5.0/AndroidManifest.xml:2:1-7:12
+MERGED from [io.coil-kt:coil-base:2.5.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/d91444f612bc6ebd64e6db00b71f526a/transformed/coil-base-2.5.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.window:window-core-android:1.5.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/15b46d07248e95f2f5b23a4b514036c0/transformed/window-core/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.window:window:1.5.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/354042ab3770746a9469d3a73bca5521/transformed/window-1.5.0/AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.transition:transition:1.6.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/58bb4c6721e81c23aa195be088d47db6/transformed/transition-1.6.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/946709fca64dac445ff4e59a65127de1/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/6aec33796377cecc92e579d78f6a6379/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.1.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/cc5c7f4ba3acea16ac158368afec9d3d/transformed/loader-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/43fcfe68eeb6ee59de1f473cf8c6fb48/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/3caa9f92de9facab6b4a86ea17847429/transformed/appcompat-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.4.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/dcf146fc20d21345d172c11e7618129c/transformed/emoji2-views-helper-1.4.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.4.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/0a189176b3373df16a8deb755a153f3c/transformed/emoji2-1.4.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/80503f6d5a4ddbf5a533eb93f0704836/transformed/autofill-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.graphics:graphics-path:1.0.1] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/1d7c9699520ee8a05a475228208c49ba/transformed/graphics-path-1.0.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.browser:browser:1.4.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/ffdc840e67f08fdee4b1201a44e4d2cc/transformed/browser-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/095320f0e2b4dc013c2ed203e4c4312b/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.9.4] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/5680ff240bc10ed3b058c8100b146994/transformed/lifecycle-viewmodel-2.9.4/AndroidManifest.xml:2:1-5:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.9.4] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/e4858ba2174d46adfbd3930ae9b0fb1a/transformed/lifecycle-viewmodel-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.9.4] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/43cc264b1d6b34c2b5832d6ca06179d2/transformed/lifecycle-runtime-ktx/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate-android:2.9.4] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/c5a3af37cb3902e0acab45fb629eca0e/transformed/lifecycle-viewmodel-savedstate-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.16.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/7a1b385294951e224e0e38ea19debcf5/transformed/core-ktx-1.16.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/5b7db0e74724d2cb39b2eb6ffa8542db/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/41a35f1203e3387ae15760480b80a7ad/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/fd24926469ae17e56552344e97459de2/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/992f36cb6433f1db71d70acc18e5239f/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/84bfcf0f2674ae351bbdab1f894b4cb4/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.16.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/acd9b07c7c51bbb3a67c029e94fb6ab4/transformed/core-1.16.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.9.4] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/cf23abc6299baf28d9ad4eecd4cbe2d6/transformed/lifecycle-runtime-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.4] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/7e7783abf0dc6cf9692a1c6e1f621c0f/transformed/lifecycle-process-2.9.4/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.9.4] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/e5e3ad5c69c555c39b974adbc5f4fdf2/transformed/lifecycle-livedata-core-2.9.4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.9.4] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/0c2dd7be5b3dbe1214999b2212e03fcb/transformed/lifecycle-viewmodel-ktx-2.9.4/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/acb2c9343335b9259bfe2245c6d8f4a0/transformed/play-services-tasks-18.2.0/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:18.5.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/4ae50daf167407e6c9b2a7fb8446000f/transformed/play-services-basement-18.5.0/AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.5.7] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/4676c034ab0d377a095197fe1b36b987/transformed/fragment-1.5.7/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.8.2] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/6da1498004dc7d563596c5ae0791bba0/transformed/activity-1.8.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate-android:1.3.2] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/e113a868c920acf065ac4bb4765815d9/transformed/savedstate-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.3.2] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/839700fbc9979a04441e488d69df15e5/transformed/savedstate-ktx-1.3.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.savedstate:savedstate-compose-android:1.3.2] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/bf7a937018fcb5f40fb993e2077cf450/transformed/savedstate-compose/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-android:1.10.5] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/6b05cdfb12e749a2eb8c22e6f3f2a52d/transformed/runtime/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.10.5] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/bb6dc6ee05e22ddccead2268ff900c4c/transformed/runtime-saveable/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.9.4] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/97971a10faddd454e091a52755d1fbbd/transformed/lifecycle-runtime-compose-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.9.4] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/4a60d2919ca9c565c8e8c02d6b638830/transformed/lifecycle-viewmodel-compose-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-android:1.10.5] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/7da58698d6513add4e144c203f2879c9/transformed/ui/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity-ktx:1.8.2] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/5ca6395382a3451c48374f4c7290e1c4/transformed/activity-ktx-1.8.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity-compose:1.8.2] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/bdb70bc7a9ad251f9446aa58a62f1eff/transformed/activity-compose-1.8.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.sqlite:sqlite-framework:2.4.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/60331906ebeb00089a177814fe0741a1/transformed/sqlite-framework-2.4.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.4.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/0b48696809ab1a0cdd333117cbb922ac/transformed/sqlite-2.4.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/f046af2c99af2ef959b16727f7680371/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/66338491bff2ab2088602d9287219cac/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.core:core-viewtree:1.0.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/f623005a01b8853de634218d1d70f2a8/transformed/core-viewtree-1.0.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/b1c9eb12ea2a549d9e4df4d4aa5e0205/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-components:18.0.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/99009c5860a63fc0f6331f067a1a855b/transformed/firebase-components-18.0.0/AndroidManifest.xml:15:1-20:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/9e6f7b34243ad6fe48ba44c070be579f/transformed/profileinstaller-1.4.0/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/3f41f86f7e92d84f91df15e4fad555a3/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/d481acadade495876a35b84aae075e4d/transformed/exifinterface-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/5c26564d93c639804ec814da7a1333a7/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.2.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/1ff5a706dd45b483bce0db0445409b9c/transformed/tracing-1.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/816e1cfefa96817a04635f56a434c67b/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/40a05d557966e18061626ca79a166dfb/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/2e8edca00c3b70c831ff8813d086198a/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/0615fad1451c1b5d227d669896a66091/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.dagger:dagger-lint-aar:2.51.1] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/26e59095c61f695f454146006079cc3f/transformed/dagger-lint-aar-2.51.1/AndroidManifest.xml:16:1-19:12
+MERGED from [io.grpc:grpc-android:1.62.2] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/622b1affca187bcce065edbb7cbef8e9/transformed/grpc-android-1.62.2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/c9d430af0804af81239c1a2bdf4ddde1/transformed/protolite-well-known-types-18.0.0/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.play:core-common:2.0.3] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/28acadc8a83614bbaf4d7a5541d28311/transformed/core-common-2.0.3/AndroidManifest.xml:2:1-21:12
+	package
+		INJECTED from /Users/ashusingla/Ashu/Antigravity/antigravity/ECommerceApp/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/ashusingla/Ashu/Antigravity/antigravity/ECommerceApp/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/ashusingla/Ashu/Antigravity/antigravity/ECommerceApp/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/ashusingla/Ashu/Antigravity/antigravity/ECommerceApp/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/ashusingla/Ashu/Antigravity/antigravity/ECommerceApp/app/src/main/AndroidManifest.xml:3:5-67
+MERGED from [com.google.firebase:firebase-auth:23.1.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/1f71e6ff5900830f009a8b6ed7cf6206/transformed/firebase-auth-23.1.0/AndroidManifest.xml:25:5-67
+MERGED from [com.google.firebase:firebase-auth:23.1.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/1f71e6ff5900830f009a8b6ed7cf6206/transformed/firebase-auth-23.1.0/AndroidManifest.xml:25:5-67
+MERGED from [com.google.firebase:firebase-storage:21.0.1] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/115542e1b04880adeef6fcfc286359c8/transformed/firebase-storage-21.0.1/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-storage:21.0.1] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/115542e1b04880adeef6fcfc286359c8/transformed/firebase-storage-21.0.1/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-database:21.0.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/3d7dabfbec4f2d512f2cb7c25c06cddd/transformed/firebase-database-21.0.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-database:21.0.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/3d7dabfbec4f2d512f2cb7c25c06cddd/transformed/firebase-database-21.0.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-firestore:25.1.1] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/fd74d5150fdc378103f9d789eecbf5b4/transformed/firebase-firestore-25.1.1/AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-firestore:25.1.1] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/fd74d5150fdc378103f9d789eecbf5b4/transformed/firebase-firestore-25.1.1/AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.recaptcha:recaptcha:18.5.1] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/f35f3efd922eeb8d3ab217e4106f668a/transformed/recaptcha-18.5.1/AndroidManifest.xml:7:5-67
+MERGED from [com.google.android.recaptcha:recaptcha:18.5.1] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/f35f3efd922eeb8d3ab217e4106f668a/transformed/recaptcha-18.5.1/AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from /Users/ashusingla/Ashu/Antigravity/antigravity/ECommerceApp/app/src/main/AndroidManifest.xml:3:22-64
+application
+ADDED from /Users/ashusingla/Ashu/Antigravity/antigravity/ECommerceApp/app/src/main/AndroidManifest.xml:4:5-19:19
+INJECTED from /Users/ashusingla/Ashu/Antigravity/antigravity/ECommerceApp/app/src/main/AndroidManifest.xml:4:5-19:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.10.5] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/0322e8c3ecb46711c8773cd4fa2260eb/transformed/ui-tooling/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.10.5] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/0322e8c3ecb46711c8773cd4fa2260eb/transformed/ui-tooling/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-test-manifest:1.10.5] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/222002482ee9822fea11bbea34331fa5/transformed/ui-test-manifest-1.10.5/AndroidManifest.xml:22:5-27:19
+MERGED from [androidx.compose.ui:ui-test-manifest:1.10.5] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/222002482ee9822fea11bbea34331fa5/transformed/ui-test-manifest-1.10.5/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-auth-ktx:23.1.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/3ef04ff256ff1930c5baaa7b68fedfcd/transformed/firebase-auth-ktx-23.1.0/AndroidManifest.xml:7:5-15:19
+MERGED from [com.google.firebase:firebase-auth-ktx:23.1.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/3ef04ff256ff1930c5baaa7b68fedfcd/transformed/firebase-auth-ktx-23.1.0/AndroidManifest.xml:7:5-15:19
+MERGED from [com.google.firebase:firebase-auth:23.1.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/1f71e6ff5900830f009a8b6ed7cf6206/transformed/firebase-auth-23.1.0/AndroidManifest.xml:28:5-73:19
+MERGED from [com.google.firebase:firebase-auth:23.1.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/1f71e6ff5900830f009a8b6ed7cf6206/transformed/firebase-auth-23.1.0/AndroidManifest.xml:28:5-73:19
+MERGED from [androidx.credentials:credentials-play-services-auth:1.6.0-beta01] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/4fe69566f084aaaedc31b8d01f0a4b49/transformed/credentials-play-services-auth-1.6.0-beta01/AndroidManifest.xml:23:5-50:19
+MERGED from [androidx.credentials:credentials-play-services-auth:1.6.0-beta01] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/4fe69566f084aaaedc31b8d01f0a4b49/transformed/credentials-play-services-auth-1.6.0-beta01/AndroidManifest.xml:23:5-50:19
+MERGED from [com.google.android.gms:play-services-auth:21.1.1] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/f7286f980c42d34c7fd18ba0409c3450/transformed/play-services-auth-21.1.1/AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-auth:21.1.1] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/f7286f980c42d34c7fd18ba0409c3450/transformed/play-services-auth-21.1.1/AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.firebase:firebase-storage-ktx:21.0.1] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/f9fe9676622d9c5815d8fa1123407dbf/transformed/firebase-storage-ktx-21.0.1/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-storage-ktx:21.0.1] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/f9fe9676622d9c5815d8fa1123407dbf/transformed/firebase-storage-ktx-21.0.1/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-storage:21.0.1] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/115542e1b04880adeef6fcfc286359c8/transformed/firebase-storage-21.0.1/AndroidManifest.xml:26:5-37:19
+MERGED from [com.google.firebase:firebase-storage:21.0.1] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/115542e1b04880adeef6fcfc286359c8/transformed/firebase-storage-21.0.1/AndroidManifest.xml:26:5-37:19
+MERGED from [com.google.firebase:firebase-database-ktx:21.0.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/6e0aff42f7afd64bb1ae9671aa24ff65/transformed/firebase-database-ktx-21.0.0/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-database-ktx:21.0.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/6e0aff42f7afd64bb1ae9671aa24ff65/transformed/firebase-database-ktx-21.0.0/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-database:21.0.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/3d7dabfbec4f2d512f2cb7c25c06cddd/transformed/firebase-database-21.0.0/AndroidManifest.xml:25:5-36:19
+MERGED from [com.google.firebase:firebase-database:21.0.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/3d7dabfbec4f2d512f2cb7c25c06cddd/transformed/firebase-database-21.0.0/AndroidManifest.xml:25:5-36:19
+MERGED from [com.google.firebase:firebase-firestore-ktx:25.1.1] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/c2995e7f6755f89a0e4df80e30557036/transformed/firebase-firestore-ktx-25.1.1/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-firestore-ktx:25.1.1] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/c2995e7f6755f89a0e4df80e30557036/transformed/firebase-firestore-ktx-25.1.1/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-firestore:25.1.1] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/fd74d5150fdc378103f9d789eecbf5b4/transformed/firebase-firestore-25.1.1/AndroidManifest.xml:13:5-24:19
+MERGED from [com.google.firebase:firebase-firestore:25.1.1] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/fd74d5150fdc378103f9d789eecbf5b4/transformed/firebase-firestore-25.1.1/AndroidManifest.xml:13:5-24:19
+MERGED from [com.google.firebase:firebase-appcheck:18.0.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/0ed34929800a7adc92600f4c32fb14f0/transformed/firebase-appcheck-18.0.0/AndroidManifest.xml:21:5-32:19
+MERGED from [com.google.firebase:firebase-appcheck:18.0.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/0ed34929800a7adc92600f4c32fb14f0/transformed/firebase-appcheck-18.0.0/AndroidManifest.xml:21:5-32:19
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/bc339cce731e46d3fb7fe28941954375/transformed/firebase-appcheck-interop-17.1.0/AndroidManifest.xml:21:5-20
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/bc339cce731e46d3fb7fe28941954375/transformed/firebase-appcheck-interop-17.1.0/AndroidManifest.xml:21:5-20
+MERGED from [com.google.android.gms:play-services-fido:21.0.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/82a6649b6895587fb227000b2746896a/transformed/play-services-fido-21.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-fido:21.0.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/82a6649b6895587fb227000b2746896a/transformed/play-services-fido-21.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-auth-blockstore:16.4.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/db346bd97f71015e0d34c72c2ad63afd/transformed/play-services-auth-blockstore-16.4.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-auth-blockstore:16.4.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/db346bd97f71015e0d34c72c2ad63afd/transformed/play-services-auth-blockstore-16.4.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:18.5.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/d01b8b8ca801b00ac2b56fea7dbc2e3c/transformed/play-services-base-18.5.0/AndroidManifest.xml:4:5-6:19
+MERGED from [com.google.android.gms:play-services-base:18.5.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/d01b8b8ca801b00ac2b56fea7dbc2e3c/transformed/play-services-base-18.5.0/AndroidManifest.xml:4:5-6:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/4502c8cbf212f4e115d0001391513c8b/transformed/firebase-common-ktx-21.0.0/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/4502c8cbf212f4e115d0001391513c8b/transformed/firebase-common-ktx-21.0.0/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/28f0268809689927d39038368de9aa36/transformed/firebase-auth-interop-20.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/28f0268809689927d39038368de9aa36/transformed/firebase-auth-interop-20.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/f03283033be74c40946f95a679cb0739/transformed/firebase-common-21.0.0/AndroidManifest.xml:22:5-39:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/f03283033be74c40946f95a679cb0739/transformed/firebase-common-21.0.0/AndroidManifest.xml:22:5-39:19
+MERGED from [com.google.android.play:integrity:1.3.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/f178133e8e7a68bfe479b051f77cbf4f/transformed/integrity-1.3.0/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.play:integrity:1.3.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/f178133e8e7a68bfe479b051f77cbf4f/transformed/integrity-1.3.0/AndroidManifest.xml:5:5-6:19
+MERGED from [androidx.room:room-runtime:2.6.1] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/deabe68f00b9e56b2d11103ed405b1a6/transformed/room-runtime-2.6.1/AndroidManifest.xml:23:5-29:19
+MERGED from [androidx.room:room-runtime:2.6.1] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/deabe68f00b9e56b2d11103ed405b1a6/transformed/room-runtime-2.6.1/AndroidManifest.xml:23:5-29:19
+MERGED from [androidx.window:window:1.5.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/354042ab3770746a9469d3a73bca5521/transformed/window-1.5.0/AndroidManifest.xml:22:5-29:19
+MERGED from [androidx.window:window:1.5.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/354042ab3770746a9469d3a73bca5521/transformed/window-1.5.0/AndroidManifest.xml:22:5-29:19
+MERGED from [androidx.emoji2:emoji2:1.4.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/0a189176b3373df16a8deb755a153f3c/transformed/emoji2-1.4.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.4.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/0a189176b3373df16a8deb755a153f3c/transformed/emoji2-1.4.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.16.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/acd9b07c7c51bbb3a67c029e94fb6ab4/transformed/core-1.16.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.16.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/acd9b07c7c51bbb3a67c029e94fb6ab4/transformed/core-1.16.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.4] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/7e7783abf0dc6cf9692a1c6e1f621c0f/transformed/lifecycle-process-2.9.4/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.4] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/7e7783abf0dc6cf9692a1c6e1f621c0f/transformed/lifecycle-process-2.9.4/AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/acb2c9343335b9259bfe2245c6d8f4a0/transformed/play-services-tasks-18.2.0/AndroidManifest.xml:4:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/acb2c9343335b9259bfe2245c6d8f4a0/transformed/play-services-tasks-18.2.0/AndroidManifest.xml:4:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.5.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/4ae50daf167407e6c9b2a7fb8446000f/transformed/play-services-basement-18.5.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.5.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/4ae50daf167407e6c9b2a7fb8446000f/transformed/play-services-basement-18.5.0/AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/66338491bff2ab2088602d9287219cac/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/66338491bff2ab2088602d9287219cac/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/9e6f7b34243ad6fe48ba44c070be579f/transformed/profileinstaller-1.4.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/9e6f7b34243ad6fe48ba44c070be579f/transformed/profileinstaller-1.4.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/5c26564d93c639804ec814da7a1333a7/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/5c26564d93c639804ec814da7a1333a7/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [com.google.android.play:core-common:2.0.3] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/28acadc8a83614bbaf4d7a5541d28311/transformed/core-common-2.0.3/AndroidManifest.xml:11:5-19:19
+MERGED from [com.google.android.play:core-common:2.0.3] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/28acadc8a83614bbaf4d7a5541d28311/transformed/core-common-2.0.3/AndroidManifest.xml:11:5-19:19
+	android:extractNativeLibs
+		INJECTED from /Users/ashusingla/Ashu/Antigravity/antigravity/ECommerceApp/app/src/main/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.16.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/acd9b07c7c51bbb3a67c029e94fb6ab4/transformed/core-1.16.0/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /Users/ashusingla/Ashu/Antigravity/antigravity/ECommerceApp/app/src/main/AndroidManifest.xml:8:9-35
+	android:label
+		ADDED from /Users/ashusingla/Ashu/Antigravity/antigravity/ECommerceApp/app/src/main/AndroidManifest.xml:7:9-41
+	android:allowBackup
+		ADDED from /Users/ashusingla/Ashu/Antigravity/antigravity/ECommerceApp/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/ashusingla/Ashu/Antigravity/antigravity/ECommerceApp/app/src/main/AndroidManifest.xml:9:9-50
+	android:name
+		ADDED from /Users/ashusingla/Ashu/Antigravity/antigravity/ECommerceApp/app/src/main/AndroidManifest.xml:5:9-30
+activity#com.example.ecommerceapp.MainActivity
+ADDED from /Users/ashusingla/Ashu/Antigravity/antigravity/ECommerceApp/app/src/main/AndroidManifest.xml:10:9-18:20
+	android:exported
+		ADDED from /Users/ashusingla/Ashu/Antigravity/antigravity/ECommerceApp/app/src/main/AndroidManifest.xml:12:13-36
+	android:theme
+		ADDED from /Users/ashusingla/Ashu/Antigravity/antigravity/ECommerceApp/app/src/main/AndroidManifest.xml:13:13-54
+	android:name
+		ADDED from /Users/ashusingla/Ashu/Antigravity/antigravity/ECommerceApp/app/src/main/AndroidManifest.xml:11:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/ashusingla/Ashu/Antigravity/antigravity/ECommerceApp/app/src/main/AndroidManifest.xml:14:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/ashusingla/Ashu/Antigravity/antigravity/ECommerceApp/app/src/main/AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from /Users/ashusingla/Ashu/Antigravity/antigravity/ECommerceApp/app/src/main/AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/ashusingla/Ashu/Antigravity/antigravity/ECommerceApp/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/ashusingla/Ashu/Antigravity/antigravity/ECommerceApp/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /Users/ashusingla/Ashu/Antigravity/antigravity/ECommerceApp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/ashusingla/Ashu/Antigravity/antigravity/ECommerceApp/app/src/main/AndroidManifest.xml
+INJECTED from /Users/ashusingla/Ashu/Antigravity/antigravity/ECommerceApp/app/src/main/AndroidManifest.xml
+MERGED from [androidx.hilt:hilt-navigation-compose:1.1.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/70870bfd29b20eaf1bfd9fed6c1ab2d4/transformed/hilt-navigation-compose-1.1.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.hilt:hilt-navigation-compose:1.1.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/70870bfd29b20eaf1bfd9fed6c1ab2d4/transformed/hilt-navigation-compose-1.1.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.hilt:hilt-navigation:1.1.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/c04f048654c870c659f4bff3dd771272/transformed/hilt-navigation-1.1.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.hilt:hilt-navigation:1.1.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/c04f048654c870c659f4bff3dd771272/transformed/hilt-navigation-1.1.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-common:2.7.6] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/ad95da6376a20dccebd2954908eb6397/transformed/navigation-common-2.7.6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.7.6] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/ad95da6376a20dccebd2954908eb6397/transformed/navigation-common-2.7.6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.7.6] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/1556952c7d16f1d7f5fdbd74584aca69/transformed/navigation-runtime-2.7.6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.7.6] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/1556952c7d16f1d7f5fdbd74584aca69/transformed/navigation-runtime-2.7.6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.7.6] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/7ef315b221e81ecc08e1c03ee4bc3b73/transformed/navigation-common-ktx-2.7.6/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.7.6] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/7ef315b221e81ecc08e1c03ee4bc3b73/transformed/navigation-common-ktx-2.7.6/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.7.6] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/7b25e6f2b399c739250b55e497d4e5ef/transformed/navigation-runtime-ktx-2.7.6/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.7.6] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/7b25e6f2b399c739250b55e497d4e5ef/transformed/navigation-runtime-ktx-2.7.6/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-compose:2.7.6] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/dac27cee9b6a20526d34df50c84a4260/transformed/navigation-compose-2.7.6/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-compose:2.7.6] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/dac27cee9b6a20526d34df50c84a4260/transformed/navigation-compose-2.7.6/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material3:material3-android:1.4.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/a31a7a877c99939c6840929d23f6831b/transformed/material3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material3:material3-android:1.4.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/a31a7a877c99939c6840929d23f6831b/transformed/material3/AndroidManifest.xml:20:5-44
+MERGED from [io.coil-kt:coil-compose:2.5.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/3349fb3fd16d584b9fbe7be22e7e11ff/transformed/coil-compose-2.5.0/AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil-compose:2.5.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/3349fb3fd16d584b9fbe7be22e7e11ff/transformed/coil-compose-2.5.0/AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil-compose-base:2.5.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/9df52635a336baf577a006230d561801/transformed/coil-compose-base-2.5.0/AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil-compose-base:2.5.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/9df52635a336baf577a006230d561801/transformed/coil-compose-base-2.5.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-android:1.10.5] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/fd75a080a8b1677be03c6718bfc658e7/transformed/material/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-android:1.10.5] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/fd75a080a8b1677be03c6718bfc658e7/transformed/material/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.10.5] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/f033c94574d4dad5f9176fe3cf7baeb3/transformed/animation-core/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.10.5] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/f033c94574d4dad5f9176fe3cf7baeb3/transformed/animation-core/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.10.5] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/59f8c967b9153e5f2ee7b42efdd3a9e2/transformed/material-ripple/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.10.5] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/59f8c967b9153e5f2ee7b42efdd3a9e2/transformed/material-ripple/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.10.5] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/b112644cc36036bd01c3255ae38a8ce2/transformed/animation/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.10.5] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/b112644cc36036bd01c3255ae38a8ce2/transformed/animation/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.10.5] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/35f1c52babb83bf262471693a29a7573/transformed/foundation-layout/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.10.5] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/35f1c52babb83bf262471693a29a7573/transformed/foundation-layout/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.10.5] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/cd11c1b907e9c9d5d0b7172e1af49db3/transformed/foundation/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.10.5] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/cd11c1b907e9c9d5d0b7172e1af49db3/transformed/foundation/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.10.5] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/4a8ba47a1baf27b34d6ef59db5bf0c3a/transformed/ui-tooling-data/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.10.5] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/4a8ba47a1baf27b34d6ef59db5bf0c3a/transformed/ui-tooling-data/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.10.5] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/a086f022017976b6b01dae27ca525c79/transformed/ui-unit/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.10.5] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/a086f022017976b6b01dae27ca525c79/transformed/ui-unit/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.10.5] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/9e708cb69ac446eb20ec436fd8f13e7d/transformed/ui-geometry/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.10.5] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/9e708cb69ac446eb20ec436fd8f13e7d/transformed/ui-geometry/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.10.5] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/f6d19b9ee4d82f5d2832a2e84c5be279/transformed/ui-util/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.10.5] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/f6d19b9ee4d82f5d2832a2e84c5be279/transformed/ui-util/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.10.5] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/5e4a771c67aa8b03b52eb2dc59dc9e26/transformed/ui-text/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.10.5] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/5e4a771c67aa8b03b52eb2dc59dc9e26/transformed/ui-text/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.10.5] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/482c684f0710a4520810867aebd7ad10/transformed/ui-tooling-preview/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.10.5] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/482c684f0710a4520810867aebd7ad10/transformed/ui-tooling-preview/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.10.5] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/0322e8c3ecb46711c8773cd4fa2260eb/transformed/ui-tooling/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.10.5] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/0322e8c3ecb46711c8773cd4fa2260eb/transformed/ui-tooling/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.10.5] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/a020b86d9c82ff84f6ed078babad060e/transformed/ui-graphics/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.10.5] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/a020b86d9c82ff84f6ed078babad060e/transformed/ui-graphics/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-test-manifest:1.10.5] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/222002482ee9822fea11bbea34331fa5/transformed/ui-test-manifest-1.10.5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-test-manifest:1.10.5] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/222002482ee9822fea11bbea34331fa5/transformed/ui-test-manifest-1.10.5/AndroidManifest.xml:20:5-44
+MERGED from [com.google.accompanist:accompanist-drawablepainter:0.32.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/2ce55b26c6f16f19cddea27d4b023766/transformed/accompanist-drawablepainter-0.32.0/AndroidManifest.xml:21:5-44
+MERGED from [com.google.accompanist:accompanist-drawablepainter:0.32.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/2ce55b26c6f16f19cddea27d4b023766/transformed/accompanist-drawablepainter-0.32.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.compose.material:material-icons-extended-android:1.7.8] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/02819a10923fb6ccc71c52c0611af18c/transformed/material-icons-extended-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-extended-android:1.7.8] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/02819a10923fb6ccc71c52c0611af18c/transformed/material-icons-extended-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.7.8] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/652b3b6ed9e480b870eadaea8e0e46e4/transformed/material-icons-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.7.8] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/652b3b6ed9e480b870eadaea8e0e46e4/transformed/material-icons-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-annotation-android:1.10.5] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/d990591ce8e6f55c0ef4cf663466bcdc/transformed/runtime-annotation/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-annotation-android:1.10.5] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/d990591ce8e6f55c0ef4cf663466bcdc/transformed/runtime-annotation/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-retain-android:1.10.5] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/ca7c8f678e64fb80ff88545e3705244e/transformed/runtime-retain/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-retain-android:1.10.5] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/ca7c8f678e64fb80ff88545e3705244e/transformed/runtime-retain/AndroidManifest.xml:5:5-44
+MERGED from [com.google.dagger:hilt-android:2.51.1] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/9b47548b1eec809423a1364c5d948ccf/transformed/hilt-android-2.51.1/AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:hilt-android:2.51.1] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/9b47548b1eec809423a1364c5d948ccf/transformed/hilt-android-2.51.1/AndroidManifest.xml:18:3-42
+MERGED from [com.google.firebase:firebase-auth-ktx:23.1.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/3ef04ff256ff1930c5baaa7b68fedfcd/transformed/firebase-auth-ktx-23.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-ktx:23.1.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/3ef04ff256ff1930c5baaa7b68fedfcd/transformed/firebase-auth-ktx-23.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth:23.1.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/1f71e6ff5900830f009a8b6ed7cf6206/transformed/firebase-auth-23.1.0/AndroidManifest.xml:21:5-23:151
+MERGED from [com.google.firebase:firebase-auth:23.1.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/1f71e6ff5900830f009a8b6ed7cf6206/transformed/firebase-auth-23.1.0/AndroidManifest.xml:21:5-23:151
+MERGED from [androidx.credentials:credentials-play-services-auth:1.6.0-beta01] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/4fe69566f084aaaedc31b8d01f0a4b49/transformed/credentials-play-services-auth-1.6.0-beta01/AndroidManifest.xml:21:5-44
+MERGED from [androidx.credentials:credentials-play-services-auth:1.6.0-beta01] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/4fe69566f084aaaedc31b8d01f0a4b49/transformed/credentials-play-services-auth-1.6.0-beta01/AndroidManifest.xml:21:5-44
+MERGED from [com.google.android.libraries.identity.googleid:googleid:1.2.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/5ecce45013c4d63863b9799d4988791f/transformed/googleid-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.libraries.identity.googleid:googleid:1.2.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/5ecce45013c4d63863b9799d4988791f/transformed/googleid-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.credentials:credentials:1.6.0-beta01] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/c4f78129cf7cf6a6ea39b6ea858e2f2a/transformed/credentials-1.6.0-beta01/AndroidManifest.xml:5:5-44
+MERGED from [androidx.credentials:credentials:1.6.0-beta01] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/c4f78129cf7cf6a6ea39b6ea858e2f2a/transformed/credentials-1.6.0-beta01/AndroidManifest.xml:5:5-44
+MERGED from [androidx.biometric:biometric:1.1.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/4608d1c126d0b6ed30ddce8d6157095f/transformed/biometric-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.biometric:biometric:1.1.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/4608d1c126d0b6ed30ddce8d6157095f/transformed/biometric-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-auth:21.1.1] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/f7286f980c42d34c7fd18ba0409c3450/transformed/play-services-auth-21.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:21.1.1] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/f7286f980c42d34c7fd18ba0409c3450/transformed/play-services-auth-21.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage-ktx:21.0.1] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/f9fe9676622d9c5815d8fa1123407dbf/transformed/firebase-storage-ktx-21.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-storage-ktx:21.0.1] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/f9fe9676622d9c5815d8fa1123407dbf/transformed/firebase-storage-ktx-21.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-storage:21.0.1] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/115542e1b04880adeef6fcfc286359c8/transformed/firebase-storage-21.0.1/AndroidManifest.xml:19:5-44
+MERGED from [com.google.firebase:firebase-storage:21.0.1] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/115542e1b04880adeef6fcfc286359c8/transformed/firebase-storage-21.0.1/AndroidManifest.xml:19:5-44
+MERGED from [com.google.firebase:firebase-database-ktx:21.0.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/6e0aff42f7afd64bb1ae9671aa24ff65/transformed/firebase-database-ktx-21.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-ktx:21.0.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/6e0aff42f7afd64bb1ae9671aa24ff65/transformed/firebase-database-ktx-21.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database:21.0.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/3d7dabfbec4f2d512f2cb7c25c06cddd/transformed/firebase-database-21.0.0/AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-database:21.0.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/3d7dabfbec4f2d512f2cb7c25c06cddd/transformed/firebase-database-21.0.0/AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-firestore-ktx:25.1.1] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/c2995e7f6755f89a0e4df80e30557036/transformed/firebase-firestore-ktx-25.1.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-firestore-ktx:25.1.1] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/c2995e7f6755f89a0e4df80e30557036/transformed/firebase-firestore-ktx-25.1.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-firestore:25.1.1] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/fd74d5150fdc378103f9d789eecbf5b4/transformed/firebase-firestore-25.1.1/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-firestore:25.1.1] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/fd74d5150fdc378103f9d789eecbf5b4/transformed/firebase-firestore-25.1.1/AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.2] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/a1aa41b47231c17aa9be6e672685ea5a/transformed/play-services-auth-api-phone-18.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.2] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/a1aa41b47231c17aa9be6e672685ea5a/transformed/play-services-auth-api-phone-18.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-appcheck:18.0.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/0ed34929800a7adc92600f4c32fb14f0/transformed/firebase-appcheck-18.0.0/AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-appcheck:18.0.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/0ed34929800a7adc92600f4c32fb14f0/transformed/firebase-appcheck-18.0.0/AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/bc339cce731e46d3fb7fe28941954375/transformed/firebase-appcheck-interop-17.1.0/AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/bc339cce731e46d3fb7fe28941954375/transformed/firebase-appcheck-interop-17.1.0/AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/550968d1dcaf8991958ab1a2ba89c815/transformed/firebase-database-collection-18.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/550968d1dcaf8991958ab1a2ba89c815/transformed/firebase-database-collection-18.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-fido:21.0.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/82a6649b6895587fb227000b2746896a/transformed/play-services-fido-21.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-fido:21.0.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/82a6649b6895587fb227000b2746896a/transformed/play-services-fido-21.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-blockstore:16.4.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/db346bd97f71015e0d34c72c2ad63afd/transformed/play-services-auth-blockstore-16.4.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-blockstore:16.4.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/db346bd97f71015e0d34c72c2ad63afd/transformed/play-services-auth-blockstore-16.4.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-identity-credentials:16.0.0-alpha08] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/dc8e4050be171eb9e872ac84cdc057f5/transformed/play-services-identity-credentials-16.0.0-alpha08/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-identity-credentials:16.0.0-alpha08] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/dc8e4050be171eb9e872ac84cdc057f5/transformed/play-services-identity-credentials-16.0.0-alpha08/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.10] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/bd4ba58671dbfe595c8c806f350fa113/transformed/play-services-auth-base-18.0.10/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.10] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/bd4ba58671dbfe595c8c806f350fa113/transformed/play-services-auth-base-18.0.10/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:18.5.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/d01b8b8ca801b00ac2b56fea7dbc2e3c/transformed/play-services-base-18.5.0/AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-base:18.5.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/d01b8b8ca801b00ac2b56fea7dbc2e3c/transformed/play-services-base-18.5.0/AndroidManifest.xml:3:5-44
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/4502c8cbf212f4e115d0001391513c8b/transformed/firebase-common-ktx-21.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/4502c8cbf212f4e115d0001391513c8b/transformed/firebase-common-ktx-21.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/28f0268809689927d39038368de9aa36/transformed/firebase-auth-interop-20.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/28f0268809689927d39038368de9aa36/transformed/firebase-auth-interop-20.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:21.0.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/f03283033be74c40946f95a679cb0739/transformed/firebase-common-21.0.0/AndroidManifest.xml:19:5-44
+MERGED from [com.google.firebase:firebase-common:21.0.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/f03283033be74c40946f95a679cb0739/transformed/firebase-common-21.0.0/AndroidManifest.xml:19:5-44
+MERGED from [com.google.android.recaptcha:recaptcha:18.5.1] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/f35f3efd922eeb8d3ab217e4106f668a/transformed/recaptcha-18.5.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.recaptcha:recaptcha:18.5.1] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/f35f3efd922eeb8d3ab217e4106f668a/transformed/recaptcha-18.5.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.play:integrity:1.3.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/f178133e8e7a68bfe479b051f77cbf4f/transformed/integrity-1.3.0/AndroidManifest.xml:4:5-44
+MERGED from [com.google.android.play:integrity:1.3.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/f178133e8e7a68bfe479b051f77cbf4f/transformed/integrity-1.3.0/AndroidManifest.xml:4:5-44
+MERGED from [androidx.room:room-runtime:2.6.1] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/deabe68f00b9e56b2d11103ed405b1a6/transformed/room-runtime-2.6.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.room:room-runtime:2.6.1] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/deabe68f00b9e56b2d11103ed405b1a6/transformed/room-runtime-2.6.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.room:room-ktx:2.6.1] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/a730cce24318bf50dc79db25b2ef6bbe/transformed/room-ktx-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-ktx:2.6.1] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/a730cce24318bf50dc79db25b2ef6bbe/transformed/room-ktx-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [io.coil-kt:coil:2.5.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/5fa08788352add0d6558cf9083cc8756/transformed/coil-2.5.0/AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil:2.5.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/5fa08788352add0d6558cf9083cc8756/transformed/coil-2.5.0/AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil-base:2.5.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/d91444f612bc6ebd64e6db00b71f526a/transformed/coil-base-2.5.0/AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil-base:2.5.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/d91444f612bc6ebd64e6db00b71f526a/transformed/coil-base-2.5.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.window:window-core-android:1.5.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/15b46d07248e95f2f5b23a4b514036c0/transformed/window-core/AndroidManifest.xml:5:5-44
+MERGED from [androidx.window:window-core-android:1.5.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/15b46d07248e95f2f5b23a4b514036c0/transformed/window-core/AndroidManifest.xml:5:5-44
+MERGED from [androidx.window:window:1.5.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/354042ab3770746a9469d3a73bca5521/transformed/window-1.5.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.window:window:1.5.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/354042ab3770746a9469d3a73bca5521/transformed/window-1.5.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.6.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/58bb4c6721e81c23aa195be088d47db6/transformed/transition-1.6.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.transition:transition:1.6.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/58bb4c6721e81c23aa195be088d47db6/transformed/transition-1.6.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/946709fca64dac445ff4e59a65127de1/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/946709fca64dac445ff4e59a65127de1/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/6aec33796377cecc92e579d78f6a6379/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/6aec33796377cecc92e579d78f6a6379/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.1.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/cc5c7f4ba3acea16ac158368afec9d3d/transformed/loader-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.1.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/cc5c7f4ba3acea16ac158368afec9d3d/transformed/loader-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/43fcfe68eeb6ee59de1f473cf8c6fb48/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/43fcfe68eeb6ee59de1f473cf8c6fb48/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/3caa9f92de9facab6b4a86ea17847429/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/3caa9f92de9facab6b4a86ea17847429/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.4.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/dcf146fc20d21345d172c11e7618129c/transformed/emoji2-views-helper-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.4.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/dcf146fc20d21345d172c11e7618129c/transformed/emoji2-views-helper-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.4.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/0a189176b3373df16a8deb755a153f3c/transformed/emoji2-1.4.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.4.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/0a189176b3373df16a8deb755a153f3c/transformed/emoji2-1.4.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/80503f6d5a4ddbf5a533eb93f0704836/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/80503f6d5a4ddbf5a533eb93f0704836/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.graphics:graphics-path:1.0.1] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/1d7c9699520ee8a05a475228208c49ba/transformed/graphics-path-1.0.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.graphics:graphics-path:1.0.1] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/1d7c9699520ee8a05a475228208c49ba/transformed/graphics-path-1.0.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.browser:browser:1.4.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/ffdc840e67f08fdee4b1201a44e4d2cc/transformed/browser-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.4.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/ffdc840e67f08fdee4b1201a44e4d2cc/transformed/browser-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/095320f0e2b4dc013c2ed203e4c4312b/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/095320f0e2b4dc013c2ed203e4c4312b/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.9.4] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/5680ff240bc10ed3b058c8100b146994/transformed/lifecycle-viewmodel-2.9.4/AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.9.4] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/5680ff240bc10ed3b058c8100b146994/transformed/lifecycle-viewmodel-2.9.4/AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.9.4] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/e4858ba2174d46adfbd3930ae9b0fb1a/transformed/lifecycle-viewmodel-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.9.4] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/e4858ba2174d46adfbd3930ae9b0fb1a/transformed/lifecycle-viewmodel-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.9.4] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/43cc264b1d6b34c2b5832d6ca06179d2/transformed/lifecycle-runtime-ktx/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.9.4] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/43cc264b1d6b34c2b5832d6ca06179d2/transformed/lifecycle-runtime-ktx/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate-android:2.9.4] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/c5a3af37cb3902e0acab45fb629eca0e/transformed/lifecycle-viewmodel-savedstate-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate-android:2.9.4] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/c5a3af37cb3902e0acab45fb629eca0e/transformed/lifecycle-viewmodel-savedstate-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.16.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/7a1b385294951e224e0e38ea19debcf5/transformed/core-ktx-1.16.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.16.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/7a1b385294951e224e0e38ea19debcf5/transformed/core-ktx-1.16.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/5b7db0e74724d2cb39b2eb6ffa8542db/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/5b7db0e74724d2cb39b2eb6ffa8542db/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/41a35f1203e3387ae15760480b80a7ad/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/41a35f1203e3387ae15760480b80a7ad/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/fd24926469ae17e56552344e97459de2/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/fd24926469ae17e56552344e97459de2/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/992f36cb6433f1db71d70acc18e5239f/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/992f36cb6433f1db71d70acc18e5239f/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/84bfcf0f2674ae351bbdab1f894b4cb4/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/84bfcf0f2674ae351bbdab1f894b4cb4/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.16.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/acd9b07c7c51bbb3a67c029e94fb6ab4/transformed/core-1.16.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.16.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/acd9b07c7c51bbb3a67c029e94fb6ab4/transformed/core-1.16.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.9.4] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/cf23abc6299baf28d9ad4eecd4cbe2d6/transformed/lifecycle-runtime-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.9.4] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/cf23abc6299baf28d9ad4eecd4cbe2d6/transformed/lifecycle-runtime-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.4] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/7e7783abf0dc6cf9692a1c6e1f621c0f/transformed/lifecycle-process-2.9.4/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.4] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/7e7783abf0dc6cf9692a1c6e1f621c0f/transformed/lifecycle-process-2.9.4/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.9.4] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/e5e3ad5c69c555c39b974adbc5f4fdf2/transformed/lifecycle-livedata-core-2.9.4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.9.4] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/e5e3ad5c69c555c39b974adbc5f4fdf2/transformed/lifecycle-livedata-core-2.9.4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.9.4] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/0c2dd7be5b3dbe1214999b2212e03fcb/transformed/lifecycle-viewmodel-ktx-2.9.4/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.9.4] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/0c2dd7be5b3dbe1214999b2212e03fcb/transformed/lifecycle-viewmodel-ktx-2.9.4/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/acb2c9343335b9259bfe2245c6d8f4a0/transformed/play-services-tasks-18.2.0/AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/acb2c9343335b9259bfe2245c6d8f4a0/transformed/play-services-tasks-18.2.0/AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.5.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/4ae50daf167407e6c9b2a7fb8446000f/transformed/play-services-basement-18.5.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.5.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/4ae50daf167407e6c9b2a7fb8446000f/transformed/play-services-basement-18.5.0/AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.5.7] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/4676c034ab0d377a095197fe1b36b987/transformed/fragment-1.5.7/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.7] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/4676c034ab0d377a095197fe1b36b987/transformed/fragment-1.5.7/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.8.2] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/6da1498004dc7d563596c5ae0791bba0/transformed/activity-1.8.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.2] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/6da1498004dc7d563596c5ae0791bba0/transformed/activity-1.8.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-android:1.3.2] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/e113a868c920acf065ac4bb4765815d9/transformed/savedstate-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-android:1.3.2] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/e113a868c920acf065ac4bb4765815d9/transformed/savedstate-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.3.2] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/839700fbc9979a04441e488d69df15e5/transformed/savedstate-ktx-1.3.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.3.2] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/839700fbc9979a04441e488d69df15e5/transformed/savedstate-ktx-1.3.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate-compose-android:1.3.2] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/bf7a937018fcb5f40fb993e2077cf450/transformed/savedstate-compose/AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate-compose-android:1.3.2] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/bf7a937018fcb5f40fb993e2077cf450/transformed/savedstate-compose/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.10.5] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/6b05cdfb12e749a2eb8c22e6f3f2a52d/transformed/runtime/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.10.5] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/6b05cdfb12e749a2eb8c22e6f3f2a52d/transformed/runtime/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.10.5] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/bb6dc6ee05e22ddccead2268ff900c4c/transformed/runtime-saveable/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.10.5] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/bb6dc6ee05e22ddccead2268ff900c4c/transformed/runtime-saveable/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.9.4] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/97971a10faddd454e091a52755d1fbbd/transformed/lifecycle-runtime-compose-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.9.4] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/97971a10faddd454e091a52755d1fbbd/transformed/lifecycle-runtime-compose-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.9.4] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/4a60d2919ca9c565c8e8c02d6b638830/transformed/lifecycle-viewmodel-compose-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.9.4] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/4a60d2919ca9c565c8e8c02d6b638830/transformed/lifecycle-viewmodel-compose-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.10.5] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/7da58698d6513add4e144c203f2879c9/transformed/ui/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.10.5] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/7da58698d6513add4e144c203f2879c9/transformed/ui/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.2] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/5ca6395382a3451c48374f4c7290e1c4/transformed/activity-ktx-1.8.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.2] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/5ca6395382a3451c48374f4c7290e1c4/transformed/activity-ktx-1.8.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.8.2] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/bdb70bc7a9ad251f9446aa58a62f1eff/transformed/activity-compose-1.8.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.8.2] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/bdb70bc7a9ad251f9446aa58a62f1eff/transformed/activity-compose-1.8.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.4.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/60331906ebeb00089a177814fe0741a1/transformed/sqlite-framework-2.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.4.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/60331906ebeb00089a177814fe0741a1/transformed/sqlite-framework-2.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.4.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/0b48696809ab1a0cdd333117cbb922ac/transformed/sqlite-2.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.4.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/0b48696809ab1a0cdd333117cbb922ac/transformed/sqlite-2.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/f046af2c99af2ef959b16727f7680371/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/f046af2c99af2ef959b16727f7680371/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/66338491bff2ab2088602d9287219cac/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/66338491bff2ab2088602d9287219cac/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-viewtree:1.0.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/f623005a01b8853de634218d1d70f2a8/transformed/core-viewtree-1.0.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-viewtree:1.0.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/f623005a01b8853de634218d1d70f2a8/transformed/core-viewtree-1.0.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/b1c9eb12ea2a549d9e4df4d4aa5e0205/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/b1c9eb12ea2a549d9e4df4d4aa5e0205/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-components:18.0.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/99009c5860a63fc0f6331f067a1a855b/transformed/firebase-components-18.0.0/AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-components:18.0.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/99009c5860a63fc0f6331f067a1a855b/transformed/firebase-components-18.0.0/AndroidManifest.xml:18:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/9e6f7b34243ad6fe48ba44c070be579f/transformed/profileinstaller-1.4.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/9e6f7b34243ad6fe48ba44c070be579f/transformed/profileinstaller-1.4.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/3f41f86f7e92d84f91df15e4fad555a3/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/3f41f86f7e92d84f91df15e4fad555a3/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/d481acadade495876a35b84aae075e4d/transformed/exifinterface-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/d481acadade495876a35b84aae075e4d/transformed/exifinterface-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/5c26564d93c639804ec814da7a1333a7/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/5c26564d93c639804ec814da7a1333a7/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.2.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/1ff5a706dd45b483bce0db0445409b9c/transformed/tracing-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.2.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/1ff5a706dd45b483bce0db0445409b9c/transformed/tracing-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/816e1cfefa96817a04635f56a434c67b/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/816e1cfefa96817a04635f56a434c67b/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/40a05d557966e18061626ca79a166dfb/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/40a05d557966e18061626ca79a166dfb/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/2e8edca00c3b70c831ff8813d086198a/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/2e8edca00c3b70c831ff8813d086198a/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/0615fad1451c1b5d227d669896a66091/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/0615fad1451c1b5d227d669896a66091/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.dagger:dagger-lint-aar:2.51.1] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/26e59095c61f695f454146006079cc3f/transformed/dagger-lint-aar-2.51.1/AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:dagger-lint-aar:2.51.1] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/26e59095c61f695f454146006079cc3f/transformed/dagger-lint-aar-2.51.1/AndroidManifest.xml:18:3-42
+MERGED from [io.grpc:grpc-android:1.62.2] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/622b1affca187bcce065edbb7cbef8e9/transformed/grpc-android-1.62.2/AndroidManifest.xml:5:5-44
+MERGED from [io.grpc:grpc-android:1.62.2] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/622b1affca187bcce065edbb7cbef8e9/transformed/grpc-android-1.62.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/c9d430af0804af81239c1a2bdf4ddde1/transformed/protolite-well-known-types-18.0.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/c9d430af0804af81239c1a2bdf4ddde1/transformed/protolite-well-known-types-18.0.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.play:core-common:2.0.3] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/28acadc8a83614bbaf4d7a5541d28311/transformed/core-common-2.0.3/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.play:core-common:2.0.3] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/28acadc8a83614bbaf4d7a5541d28311/transformed/core-common-2.0.3/AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.google.firebase:firebase-auth:23.1.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/1f71e6ff5900830f009a8b6ed7cf6206/transformed/firebase-auth-23.1.0/AndroidManifest.xml:23:9-148
+	android:targetSdkVersion
+		INJECTED from /Users/ashusingla/Ashu/Antigravity/antigravity/ECommerceApp/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/ashusingla/Ashu/Antigravity/antigravity/ECommerceApp/app/src/main/AndroidManifest.xml
+activity#androidx.compose.ui.tooling.PreviewActivity
+ADDED from [androidx.compose.ui:ui-tooling-android:1.10.5] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/0322e8c3ecb46711c8773cd4fa2260eb/transformed/ui-tooling/AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.10.5] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/0322e8c3ecb46711c8773cd4fa2260eb/transformed/ui-tooling/AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.10.5] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/0322e8c3ecb46711c8773cd4fa2260eb/transformed/ui-tooling/AndroidManifest.xml:24:13-71
+activity#androidx.activity.ComponentActivity
+ADDED from [androidx.compose.ui:ui-test-manifest:1.10.5] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/222002482ee9822fea11bbea34331fa5/transformed/ui-test-manifest-1.10.5/AndroidManifest.xml:23:9-26:79
+	android:exported
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.10.5] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/222002482ee9822fea11bbea34331fa5/transformed/ui-test-manifest-1.10.5/AndroidManifest.xml:25:13-36
+	android:theme
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.10.5] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/222002482ee9822fea11bbea34331fa5/transformed/ui-test-manifest-1.10.5/AndroidManifest.xml:26:13-76
+	android:name
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.10.5] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/222002482ee9822fea11bbea34331fa5/transformed/ui-test-manifest-1.10.5/AndroidManifest.xml:24:13-63
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-auth-ktx:23.1.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/3ef04ff256ff1930c5baaa7b68fedfcd/transformed/firebase-auth-ktx-23.1.0/AndroidManifest.xml:8:9-14:19
+MERGED from [com.google.firebase:firebase-auth:23.1.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/1f71e6ff5900830f009a8b6ed7cf6206/transformed/firebase-auth-23.1.0/AndroidManifest.xml:66:9-72:19
+MERGED from [com.google.firebase:firebase-auth:23.1.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/1f71e6ff5900830f009a8b6ed7cf6206/transformed/firebase-auth-23.1.0/AndroidManifest.xml:66:9-72:19
+MERGED from [com.google.firebase:firebase-storage-ktx:21.0.1] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/f9fe9676622d9c5815d8fa1123407dbf/transformed/firebase-storage-ktx-21.0.1/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-storage-ktx:21.0.1] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/f9fe9676622d9c5815d8fa1123407dbf/transformed/firebase-storage-ktx-21.0.1/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-storage:21.0.1] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/115542e1b04880adeef6fcfc286359c8/transformed/firebase-storage-21.0.1/AndroidManifest.xml:27:9-36:19
+MERGED from [com.google.firebase:firebase-storage:21.0.1] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/115542e1b04880adeef6fcfc286359c8/transformed/firebase-storage-21.0.1/AndroidManifest.xml:27:9-36:19
+MERGED from [com.google.firebase:firebase-database-ktx:21.0.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/6e0aff42f7afd64bb1ae9671aa24ff65/transformed/firebase-database-ktx-21.0.0/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-database-ktx:21.0.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/6e0aff42f7afd64bb1ae9671aa24ff65/transformed/firebase-database-ktx-21.0.0/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-database:21.0.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/3d7dabfbec4f2d512f2cb7c25c06cddd/transformed/firebase-database-21.0.0/AndroidManifest.xml:26:9-35:19
+MERGED from [com.google.firebase:firebase-database:21.0.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/3d7dabfbec4f2d512f2cb7c25c06cddd/transformed/firebase-database-21.0.0/AndroidManifest.xml:26:9-35:19
+MERGED from [com.google.firebase:firebase-firestore-ktx:25.1.1] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/c2995e7f6755f89a0e4df80e30557036/transformed/firebase-firestore-ktx-25.1.1/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-firestore-ktx:25.1.1] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/c2995e7f6755f89a0e4df80e30557036/transformed/firebase-firestore-ktx-25.1.1/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-firestore:25.1.1] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/fd74d5150fdc378103f9d789eecbf5b4/transformed/firebase-firestore-25.1.1/AndroidManifest.xml:14:9-23:19
+MERGED from [com.google.firebase:firebase-firestore:25.1.1] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/fd74d5150fdc378103f9d789eecbf5b4/transformed/firebase-firestore-25.1.1/AndroidManifest.xml:14:9-23:19
+MERGED from [com.google.firebase:firebase-appcheck:18.0.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/0ed34929800a7adc92600f4c32fb14f0/transformed/firebase-appcheck-18.0.0/AndroidManifest.xml:22:9-31:19
+MERGED from [com.google.firebase:firebase-appcheck:18.0.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/0ed34929800a7adc92600f4c32fb14f0/transformed/firebase-appcheck-18.0.0/AndroidManifest.xml:22:9-31:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/4502c8cbf212f4e115d0001391513c8b/transformed/firebase-common-ktx-21.0.0/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/4502c8cbf212f4e115d0001391513c8b/transformed/firebase-common-ktx-21.0.0/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/f03283033be74c40946f95a679cb0739/transformed/firebase-common-21.0.0/AndroidManifest.xml:30:9-38:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/f03283033be74c40946f95a679cb0739/transformed/firebase-common-21.0.0/AndroidManifest.xml:30:9-38:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth-ktx:23.1.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/3ef04ff256ff1930c5baaa7b68fedfcd/transformed/firebase-auth-ktx-23.1.0/AndroidManifest.xml:10:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:21.0.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/f03283033be74c40946f95a679cb0739/transformed/firebase-common-21.0.0/AndroidManifest.xml:34:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:21.0.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/f03283033be74c40946f95a679cb0739/transformed/firebase-common-21.0.0/AndroidManifest.xml:32:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-auth-ktx:23.1.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/3ef04ff256ff1930c5baaa7b68fedfcd/transformed/firebase-auth-ktx-23.1.0/AndroidManifest.xml:9:13-84
+meta-data#com.google.firebase.components:com.google.firebase.auth.ktx.FirebaseAuthLegacyRegistrar
+ADDED from [com.google.firebase:firebase-auth-ktx:23.1.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/3ef04ff256ff1930c5baaa7b68fedfcd/transformed/firebase-auth-ktx-23.1.0/AndroidManifest.xml:11:13-13:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth-ktx:23.1.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/3ef04ff256ff1930c5baaa7b68fedfcd/transformed/firebase-auth-ktx-23.1.0/AndroidManifest.xml:13:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth-ktx:23.1.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/3ef04ff256ff1930c5baaa7b68fedfcd/transformed/firebase-auth-ktx-23.1.0/AndroidManifest.xml:12:17-119
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-auth:23.1.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/1f71e6ff5900830f009a8b6ed7cf6206/transformed/firebase-auth-23.1.0/AndroidManifest.xml:26:5-79
+MERGED from [com.google.firebase:firebase-storage:21.0.1] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/115542e1b04880adeef6fcfc286359c8/transformed/firebase-storage-21.0.1/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-storage:21.0.1] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/115542e1b04880adeef6fcfc286359c8/transformed/firebase-storage-21.0.1/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-database:21.0.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/3d7dabfbec4f2d512f2cb7c25c06cddd/transformed/firebase-database-21.0.0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-database:21.0.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/3d7dabfbec4f2d512f2cb7c25c06cddd/transformed/firebase-database-21.0.0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-firestore:25.1.1] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/fd74d5150fdc378103f9d789eecbf5b4/transformed/firebase-firestore-25.1.1/AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-firestore:25.1.1] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/fd74d5150fdc378103f9d789eecbf5b4/transformed/firebase-firestore-25.1.1/AndroidManifest.xml:10:5-79
+MERGED from [com.google.android.recaptcha:recaptcha:18.5.1] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/f35f3efd922eeb8d3ab217e4106f668a/transformed/recaptcha-18.5.1/AndroidManifest.xml:8:5-79
+MERGED from [com.google.android.recaptcha:recaptcha:18.5.1] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/f35f3efd922eeb8d3ab217e4106f668a/transformed/recaptcha-18.5.1/AndroidManifest.xml:8:5-79
+MERGED from [io.grpc:grpc-android:1.62.2] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/622b1affca187bcce065edbb7cbef8e9/transformed/grpc-android-1.62.2/AndroidManifest.xml:7:5-79
+MERGED from [io.grpc:grpc-android:1.62.2] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/622b1affca187bcce065edbb7cbef8e9/transformed/grpc-android-1.62.2/AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.1.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/1f71e6ff5900830f009a8b6ed7cf6206/transformed/firebase-auth-23.1.0/AndroidManifest.xml:26:22-76
+activity#com.google.firebase.auth.internal.GenericIdpActivity
+ADDED from [com.google.firebase:firebase-auth:23.1.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/1f71e6ff5900830f009a8b6ed7cf6206/transformed/firebase-auth-23.1.0/AndroidManifest.xml:29:9-46:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:23.1.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/1f71e6ff5900830f009a8b6ed7cf6206/transformed/firebase-auth-23.1.0/AndroidManifest.xml:31:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:23.1.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/1f71e6ff5900830f009a8b6ed7cf6206/transformed/firebase-auth-23.1.0/AndroidManifest.xml:33:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:23.1.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/1f71e6ff5900830f009a8b6ed7cf6206/transformed/firebase-auth-23.1.0/AndroidManifest.xml:32:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:23.1.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/1f71e6ff5900830f009a8b6ed7cf6206/transformed/firebase-auth-23.1.0/AndroidManifest.xml:34:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.1.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/1f71e6ff5900830f009a8b6ed7cf6206/transformed/firebase-auth-23.1.0/AndroidManifest.xml:30:13-80
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:genericidp
+ADDED from [com.google.firebase:firebase-auth:23.1.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/1f71e6ff5900830f009a8b6ed7cf6206/transformed/firebase-auth-23.1.0/AndroidManifest.xml:35:13-45:29
+action#android.intent.action.VIEW
+ADDED from [com.google.firebase:firebase-auth:23.1.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/1f71e6ff5900830f009a8b6ed7cf6206/transformed/firebase-auth-23.1.0/AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.1.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/1f71e6ff5900830f009a8b6ed7cf6206/transformed/firebase-auth-23.1.0/AndroidManifest.xml:36:25-66
+category#android.intent.category.DEFAULT
+ADDED from [com.google.firebase:firebase-auth:23.1.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/1f71e6ff5900830f009a8b6ed7cf6206/transformed/firebase-auth-23.1.0/AndroidManifest.xml:38:17-76
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.1.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/1f71e6ff5900830f009a8b6ed7cf6206/transformed/firebase-auth-23.1.0/AndroidManifest.xml:38:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.firebase:firebase-auth:23.1.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/1f71e6ff5900830f009a8b6ed7cf6206/transformed/firebase-auth-23.1.0/AndroidManifest.xml:39:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.1.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/1f71e6ff5900830f009a8b6ed7cf6206/transformed/firebase-auth-23.1.0/AndroidManifest.xml:39:27-75
+data
+ADDED from [com.google.firebase:firebase-auth:23.1.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/1f71e6ff5900830f009a8b6ed7cf6206/transformed/firebase-auth-23.1.0/AndroidManifest.xml:41:17-44:51
+	android:path
+		ADDED from [com.google.firebase:firebase-auth:23.1.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/1f71e6ff5900830f009a8b6ed7cf6206/transformed/firebase-auth-23.1.0/AndroidManifest.xml:43:21-37
+	android:host
+		ADDED from [com.google.firebase:firebase-auth:23.1.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/1f71e6ff5900830f009a8b6ed7cf6206/transformed/firebase-auth-23.1.0/AndroidManifest.xml:42:21-49
+	android:scheme
+		ADDED from [com.google.firebase:firebase-auth:23.1.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/1f71e6ff5900830f009a8b6ed7cf6206/transformed/firebase-auth-23.1.0/AndroidManifest.xml:44:21-48
+activity#com.google.firebase.auth.internal.RecaptchaActivity
+ADDED from [com.google.firebase:firebase-auth:23.1.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/1f71e6ff5900830f009a8b6ed7cf6206/transformed/firebase-auth-23.1.0/AndroidManifest.xml:47:9-64:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:23.1.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/1f71e6ff5900830f009a8b6ed7cf6206/transformed/firebase-auth-23.1.0/AndroidManifest.xml:49:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:23.1.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/1f71e6ff5900830f009a8b6ed7cf6206/transformed/firebase-auth-23.1.0/AndroidManifest.xml:51:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:23.1.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/1f71e6ff5900830f009a8b6ed7cf6206/transformed/firebase-auth-23.1.0/AndroidManifest.xml:50:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:23.1.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/1f71e6ff5900830f009a8b6ed7cf6206/transformed/firebase-auth-23.1.0/AndroidManifest.xml:52:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.1.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/1f71e6ff5900830f009a8b6ed7cf6206/transformed/firebase-auth-23.1.0/AndroidManifest.xml:48:13-79
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:recaptcha
+ADDED from [com.google.firebase:firebase-auth:23.1.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/1f71e6ff5900830f009a8b6ed7cf6206/transformed/firebase-auth-23.1.0/AndroidManifest.xml:53:13-63:29
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:23.1.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/1f71e6ff5900830f009a8b6ed7cf6206/transformed/firebase-auth-23.1.0/AndroidManifest.xml:69:13-71:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:23.1.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/1f71e6ff5900830f009a8b6ed7cf6206/transformed/firebase-auth-23.1.0/AndroidManifest.xml:71:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.1.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/1f71e6ff5900830f009a8b6ed7cf6206/transformed/firebase-auth-23.1.0/AndroidManifest.xml:70:17-109
+service#androidx.credentials.playservices.CredentialProviderMetadataHolder
+ADDED from [androidx.credentials:credentials-play-services-auth:1.6.0-beta01] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/4fe69566f084aaaedc31b8d01f0a4b49/transformed/credentials-play-services-auth-1.6.0-beta01/AndroidManifest.xml:24:9-32:19
+	android:enabled
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.6.0-beta01] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/4fe69566f084aaaedc31b8d01f0a4b49/transformed/credentials-play-services-auth-1.6.0-beta01/AndroidManifest.xml:26:13-35
+	android:exported
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.6.0-beta01] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/4fe69566f084aaaedc31b8d01f0a4b49/transformed/credentials-play-services-auth-1.6.0-beta01/AndroidManifest.xml:27:13-37
+	tools:ignore
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.6.0-beta01] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/4fe69566f084aaaedc31b8d01f0a4b49/transformed/credentials-play-services-auth-1.6.0-beta01/AndroidManifest.xml:28:13-60
+	android:name
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.6.0-beta01] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/4fe69566f084aaaedc31b8d01f0a4b49/transformed/credentials-play-services-auth-1.6.0-beta01/AndroidManifest.xml:25:13-94
+meta-data#androidx.credentials.CREDENTIAL_PROVIDER_KEY
+ADDED from [androidx.credentials:credentials-play-services-auth:1.6.0-beta01] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/4fe69566f084aaaedc31b8d01f0a4b49/transformed/credentials-play-services-auth-1.6.0-beta01/AndroidManifest.xml:29:13-31:104
+	android:value
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.6.0-beta01] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/4fe69566f084aaaedc31b8d01f0a4b49/transformed/credentials-play-services-auth-1.6.0-beta01/AndroidManifest.xml:31:17-101
+	android:name
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.6.0-beta01] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/4fe69566f084aaaedc31b8d01f0a4b49/transformed/credentials-play-services-auth-1.6.0-beta01/AndroidManifest.xml:30:17-76
+activity#androidx.credentials.playservices.controllers.identityauth.HiddenActivity
+ADDED from [androidx.credentials:credentials-play-services-auth:1.6.0-beta01] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/4fe69566f084aaaedc31b8d01f0a4b49/transformed/credentials-play-services-auth-1.6.0-beta01/AndroidManifest.xml:34:9-41:20
+	android:fitsSystemWindows
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.6.0-beta01] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/4fe69566f084aaaedc31b8d01f0a4b49/transformed/credentials-play-services-auth-1.6.0-beta01/AndroidManifest.xml:39:13-45
+	android:enabled
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.6.0-beta01] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/4fe69566f084aaaedc31b8d01f0a4b49/transformed/credentials-play-services-auth-1.6.0-beta01/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.6.0-beta01] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/4fe69566f084aaaedc31b8d01f0a4b49/transformed/credentials-play-services-auth-1.6.0-beta01/AndroidManifest.xml:38:13-37
+	android:configChanges
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.6.0-beta01] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/4fe69566f084aaaedc31b8d01f0a4b49/transformed/credentials-play-services-auth-1.6.0-beta01/AndroidManifest.xml:36:13-87
+	android:theme
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.6.0-beta01] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/4fe69566f084aaaedc31b8d01f0a4b49/transformed/credentials-play-services-auth-1.6.0-beta01/AndroidManifest.xml:40:13-48
+	android:name
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.6.0-beta01] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/4fe69566f084aaaedc31b8d01f0a4b49/transformed/credentials-play-services-auth-1.6.0-beta01/AndroidManifest.xml:35:13-101
+activity#androidx.credentials.playservices.controllers.identitycredentials.IdentityCredentialApiHiddenActivity
+ADDED from [androidx.credentials:credentials-play-services-auth:1.6.0-beta01] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/4fe69566f084aaaedc31b8d01f0a4b49/transformed/credentials-play-services-auth-1.6.0-beta01/AndroidManifest.xml:42:9-49:20
+	android:fitsSystemWindows
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.6.0-beta01] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/4fe69566f084aaaedc31b8d01f0a4b49/transformed/credentials-play-services-auth-1.6.0-beta01/AndroidManifest.xml:47:13-45
+	android:enabled
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.6.0-beta01] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/4fe69566f084aaaedc31b8d01f0a4b49/transformed/credentials-play-services-auth-1.6.0-beta01/AndroidManifest.xml:45:13-35
+	android:exported
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.6.0-beta01] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/4fe69566f084aaaedc31b8d01f0a4b49/transformed/credentials-play-services-auth-1.6.0-beta01/AndroidManifest.xml:46:13-37
+	android:configChanges
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.6.0-beta01] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/4fe69566f084aaaedc31b8d01f0a4b49/transformed/credentials-play-services-auth-1.6.0-beta01/AndroidManifest.xml:44:13-87
+	android:theme
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.6.0-beta01] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/4fe69566f084aaaedc31b8d01f0a4b49/transformed/credentials-play-services-auth-1.6.0-beta01/AndroidManifest.xml:48:13-48
+	android:name
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.6.0-beta01] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/4fe69566f084aaaedc31b8d01f0a4b49/transformed/credentials-play-services-auth-1.6.0-beta01/AndroidManifest.xml:43:13-129
+uses-permission#android.permission.USE_BIOMETRIC
+ADDED from [androidx.biometric:biometric:1.1.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/4608d1c126d0b6ed30ddce8d6157095f/transformed/biometric-1.1.0/AndroidManifest.xml:24:5-72
+	android:name
+		ADDED from [androidx.biometric:biometric:1.1.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/4608d1c126d0b6ed30ddce8d6157095f/transformed/biometric-1.1.0/AndroidManifest.xml:24:22-69
+uses-permission#android.permission.USE_FINGERPRINT
+ADDED from [androidx.biometric:biometric:1.1.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/4608d1c126d0b6ed30ddce8d6157095f/transformed/biometric-1.1.0/AndroidManifest.xml:27:5-74
+	android:name
+		ADDED from [androidx.biometric:biometric:1.1.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/4608d1c126d0b6ed30ddce8d6157095f/transformed/biometric-1.1.0/AndroidManifest.xml:27:22-71
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:21.1.1] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/f7286f980c42d34c7fd18ba0409c3450/transformed/play-services-auth-21.1.1/AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:21.1.1] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/f7286f980c42d34c7fd18ba0409c3450/transformed/play-services-auth-21.1.1/AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:21.1.1] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/f7286f980c42d34c7fd18ba0409c3450/transformed/play-services-auth-21.1.1/AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:21.1.1] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/f7286f980c42d34c7fd18ba0409c3450/transformed/play-services-auth-21.1.1/AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:21.1.1] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/f7286f980c42d34c7fd18ba0409c3450/transformed/play-services-auth-21.1.1/AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:21.1.1] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/f7286f980c42d34c7fd18ba0409c3450/transformed/play-services-auth-21.1.1/AndroidManifest.xml:33:9-37:51
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:21.1.1] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/f7286f980c42d34c7fd18ba0409c3450/transformed/play-services-auth-21.1.1/AndroidManifest.xml:35:13-36
+	android:visibleToInstantApps
+		ADDED from [com.google.android.gms:play-services-auth:21.1.1] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/f7286f980c42d34c7fd18ba0409c3450/transformed/play-services-auth-21.1.1/AndroidManifest.xml:37:13-48
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:21.1.1] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/f7286f980c42d34c7fd18ba0409c3450/transformed/play-services-auth-21.1.1/AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:21.1.1] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/f7286f980c42d34c7fd18ba0409c3450/transformed/play-services-auth-21.1.1/AndroidManifest.xml:34:13-89
+meta-data#com.google.firebase.components:com.google.firebase.storage.ktx.FirebaseStorageLegacyRegistrar
+ADDED from [com.google.firebase:firebase-storage-ktx:21.0.1] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/f9fe9676622d9c5815d8fa1123407dbf/transformed/firebase-storage-ktx-21.0.1/AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.firebase:firebase-storage-ktx:21.0.1] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/f9fe9676622d9c5815d8fa1123407dbf/transformed/firebase-storage-ktx-21.0.1/AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-storage-ktx:21.0.1] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/f9fe9676622d9c5815d8fa1123407dbf/transformed/firebase-storage-ktx-21.0.1/AndroidManifest.xml:13:17-125
+meta-data#com.google.firebase.components:com.google.firebase.storage.FirebaseStorageKtxRegistrar
+ADDED from [com.google.firebase:firebase-storage:21.0.1] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/115542e1b04880adeef6fcfc286359c8/transformed/firebase-storage-21.0.1/AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.firebase:firebase-storage:21.0.1] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/115542e1b04880adeef6fcfc286359c8/transformed/firebase-storage-21.0.1/AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-storage:21.0.1] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/115542e1b04880adeef6fcfc286359c8/transformed/firebase-storage-21.0.1/AndroidManifest.xml:31:17-118
+meta-data#com.google.firebase.components:com.google.firebase.storage.StorageRegistrar
+ADDED from [com.google.firebase:firebase-storage:21.0.1] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/115542e1b04880adeef6fcfc286359c8/transformed/firebase-storage-21.0.1/AndroidManifest.xml:33:13-35:85
+	android:value
+		ADDED from [com.google.firebase:firebase-storage:21.0.1] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/115542e1b04880adeef6fcfc286359c8/transformed/firebase-storage-21.0.1/AndroidManifest.xml:35:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-storage:21.0.1] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/115542e1b04880adeef6fcfc286359c8/transformed/firebase-storage-21.0.1/AndroidManifest.xml:34:17-107
+meta-data#com.google.firebase.components:com.google.firebase.database.ktx.FirebaseDatabaseLegacyRegistrar
+ADDED from [com.google.firebase:firebase-database-ktx:21.0.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/6e0aff42f7afd64bb1ae9671aa24ff65/transformed/firebase-database-ktx-21.0.0/AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database-ktx:21.0.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/6e0aff42f7afd64bb1ae9671aa24ff65/transformed/firebase-database-ktx-21.0.0/AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database-ktx:21.0.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/6e0aff42f7afd64bb1ae9671aa24ff65/transformed/firebase-database-ktx-21.0.0/AndroidManifest.xml:13:17-127
+meta-data#com.google.firebase.components:com.google.firebase.database.FirebaseDatabaseKtxRegistrar
+ADDED from [com.google.firebase:firebase-database:21.0.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/3d7dabfbec4f2d512f2cb7c25c06cddd/transformed/firebase-database-21.0.0/AndroidManifest.xml:29:13-31:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database:21.0.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/3d7dabfbec4f2d512f2cb7c25c06cddd/transformed/firebase-database-21.0.0/AndroidManifest.xml:31:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database:21.0.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/3d7dabfbec4f2d512f2cb7c25c06cddd/transformed/firebase-database-21.0.0/AndroidManifest.xml:30:17-120
+meta-data#com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar
+ADDED from [com.google.firebase:firebase-database:21.0.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/3d7dabfbec4f2d512f2cb7c25c06cddd/transformed/firebase-database-21.0.0/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database:21.0.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/3d7dabfbec4f2d512f2cb7c25c06cddd/transformed/firebase-database-21.0.0/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database:21.0.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/3d7dabfbec4f2d512f2cb7c25c06cddd/transformed/firebase-database-21.0.0/AndroidManifest.xml:33:17-109
+meta-data#com.google.firebase.components:com.google.firebase.firestore.ktx.FirebaseFirestoreLegacyRegistrar
+ADDED from [com.google.firebase:firebase-firestore-ktx:25.1.1] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/c2995e7f6755f89a0e4df80e30557036/transformed/firebase-firestore-ktx-25.1.1/AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore-ktx:25.1.1] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/c2995e7f6755f89a0e4df80e30557036/transformed/firebase-firestore-ktx-25.1.1/AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore-ktx:25.1.1] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/c2995e7f6755f89a0e4df80e30557036/transformed/firebase-firestore-ktx-25.1.1/AndroidManifest.xml:13:17-129
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirebaseFirestoreKtxRegistrar
+ADDED from [com.google.firebase:firebase-firestore:25.1.1] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/fd74d5150fdc378103f9d789eecbf5b4/transformed/firebase-firestore-25.1.1/AndroidManifest.xml:17:13-19:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:25.1.1] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/fd74d5150fdc378103f9d789eecbf5b4/transformed/firebase-firestore-25.1.1/AndroidManifest.xml:19:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:25.1.1] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/fd74d5150fdc378103f9d789eecbf5b4/transformed/firebase-firestore-25.1.1/AndroidManifest.xml:18:17-122
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar
+ADDED from [com.google.firebase:firebase-firestore:25.1.1] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/fd74d5150fdc378103f9d789eecbf5b4/transformed/firebase-firestore-25.1.1/AndroidManifest.xml:20:13-22:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:25.1.1] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/fd74d5150fdc378103f9d789eecbf5b4/transformed/firebase-firestore-25.1.1/AndroidManifest.xml:22:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:25.1.1] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/fd74d5150fdc378103f9d789eecbf5b4/transformed/firebase-firestore-25.1.1/AndroidManifest.xml:21:17-111
+meta-data#com.google.firebase.components:com.google.firebase.appcheck.FirebaseAppCheckKtxRegistrar
+ADDED from [com.google.firebase:firebase-appcheck:18.0.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/0ed34929800a7adc92600f4c32fb14f0/transformed/firebase-appcheck-18.0.0/AndroidManifest.xml:25:13-27:85
+	android:value
+		ADDED from [com.google.firebase:firebase-appcheck:18.0.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/0ed34929800a7adc92600f4c32fb14f0/transformed/firebase-appcheck-18.0.0/AndroidManifest.xml:27:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-appcheck:18.0.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/0ed34929800a7adc92600f4c32fb14f0/transformed/firebase-appcheck-18.0.0/AndroidManifest.xml:26:17-120
+meta-data#com.google.firebase.components:com.google.firebase.appcheck.FirebaseAppCheckRegistrar
+ADDED from [com.google.firebase:firebase-appcheck:18.0.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/0ed34929800a7adc92600f4c32fb14f0/transformed/firebase-appcheck-18.0.0/AndroidManifest.xml:28:13-30:85
+	android:value
+		ADDED from [com.google.firebase:firebase-appcheck:18.0.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/0ed34929800a7adc92600f4c32fb14f0/transformed/firebase-appcheck-18.0.0/AndroidManifest.xml:30:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-appcheck:18.0.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/0ed34929800a7adc92600f4c32fb14f0/transformed/firebase-appcheck-18.0.0/AndroidManifest.xml:29:17-117
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.5.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/d01b8b8ca801b00ac2b56fea7dbc2e3c/transformed/play-services-base-18.5.0/AndroidManifest.xml:5:9-173
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.5.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/d01b8b8ca801b00ac2b56fea7dbc2e3c/transformed/play-services-base-18.5.0/AndroidManifest.xml:5:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.5.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/d01b8b8ca801b00ac2b56fea7dbc2e3c/transformed/play-services-base-18.5.0/AndroidManifest.xml:5:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.5.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/d01b8b8ca801b00ac2b56fea7dbc2e3c/transformed/play-services-base-18.5.0/AndroidManifest.xml:5:19-85
+meta-data#com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonLegacyRegistrar
+ADDED from [com.google.firebase:firebase-common-ktx:21.0.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/4502c8cbf212f4e115d0001391513c8b/transformed/firebase-common-ktx-21.0.0/AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common-ktx:21.0.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/4502c8cbf212f4e115d0001391513c8b/transformed/firebase-common-ktx-21.0.0/AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common-ktx:21.0.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/4502c8cbf212f4e115d0001391513c8b/transformed/firebase-common-ktx-21.0.0/AndroidManifest.xml:13:17-116
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:21.0.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/f03283033be74c40946f95a679cb0739/transformed/firebase-common-21.0.0/AndroidManifest.xml:23:9-28:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:21.0.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/f03283033be74c40946f95a679cb0739/transformed/firebase-common-21.0.0/AndroidManifest.xml:25:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:21.0.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/f03283033be74c40946f95a679cb0739/transformed/firebase-common-21.0.0/AndroidManifest.xml:27:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:21.0.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/f03283033be74c40946f95a679cb0739/transformed/firebase-common-21.0.0/AndroidManifest.xml:26:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:21.0.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/f03283033be74c40946f95a679cb0739/transformed/firebase-common-21.0.0/AndroidManifest.xml:28:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:21.0.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/f03283033be74c40946f95a679cb0739/transformed/firebase-common-21.0.0/AndroidManifest.xml:24:13-77
+meta-data#com.google.firebase.components:com.google.firebase.FirebaseCommonKtxRegistrar
+ADDED from [com.google.firebase:firebase-common:21.0.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/f03283033be74c40946f95a679cb0739/transformed/firebase-common-21.0.0/AndroidManifest.xml:35:13-37:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common:21.0.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/f03283033be74c40946f95a679cb0739/transformed/firebase-common-21.0.0/AndroidManifest.xml:37:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common:21.0.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/f03283033be74c40946f95a679cb0739/transformed/firebase-common-21.0.0/AndroidManifest.xml:36:17-109
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from [com.google.android.recaptcha:recaptcha:18.5.1] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/f35f3efd922eeb8d3ab217e4106f668a/transformed/recaptcha-18.5.1/AndroidManifest.xml:9:5-98
+	android:name
+		ADDED from [com.google.android.recaptcha:recaptcha:18.5.1] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/f35f3efd922eeb8d3ab217e4106f668a/transformed/recaptcha-18.5.1/AndroidManifest.xml:9:22-95
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.6.1] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/deabe68f00b9e56b2d11103ed405b1a6/transformed/room-runtime-2.6.1/AndroidManifest.xml:24:9-28:63
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.6.1] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/deabe68f00b9e56b2d11103ed405b1a6/transformed/room-runtime-2.6.1/AndroidManifest.xml:27:13-37
+	tools:ignore
+		ADDED from [androidx.room:room-runtime:2.6.1] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/deabe68f00b9e56b2d11103ed405b1a6/transformed/room-runtime-2.6.1/AndroidManifest.xml:28:13-60
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.6.1] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/deabe68f00b9e56b2d11103ed405b1a6/transformed/room-runtime-2.6.1/AndroidManifest.xml:26:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.6.1] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/deabe68f00b9e56b2d11103ed405b1a6/transformed/room-runtime-2.6.1/AndroidManifest.xml:25:13-74
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.5.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/354042ab3770746a9469d3a73bca5521/transformed/window-1.5.0/AndroidManifest.xml:23:9-25:40
+	android:required
+		ADDED from [androidx.window:window:1.5.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/354042ab3770746a9469d3a73bca5521/transformed/window-1.5.0/AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from [androidx.window:window:1.5.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/354042ab3770746a9469d3a73bca5521/transformed/window-1.5.0/AndroidManifest.xml:24:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.5.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/354042ab3770746a9469d3a73bca5521/transformed/window-1.5.0/AndroidManifest.xml:26:9-28:40
+	android:required
+		ADDED from [androidx.window:window:1.5.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/354042ab3770746a9469d3a73bca5521/transformed/window-1.5.0/AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [androidx.window:window:1.5.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/354042ab3770746a9469d3a73bca5521/transformed/window-1.5.0/AndroidManifest.xml:27:13-51
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/0a189176b3373df16a8deb755a153f3c/transformed/emoji2-1.4.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.4] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/7e7783abf0dc6cf9692a1c6e1f621c0f/transformed/lifecycle-process-2.9.4/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.4] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/7e7783abf0dc6cf9692a1c6e1f621c0f/transformed/lifecycle-process-2.9.4/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/9e6f7b34243ad6fe48ba44c070be579f/transformed/profileinstaller-1.4.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/9e6f7b34243ad6fe48ba44c070be579f/transformed/profileinstaller-1.4.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/5c26564d93c639804ec814da7a1333a7/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/5c26564d93c639804ec814da7a1333a7/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/0a189176b3373df16a8deb755a153f3c/transformed/emoji2-1.4.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/0a189176b3373df16a8deb755a153f3c/transformed/emoji2-1.4.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/0a189176b3373df16a8deb755a153f3c/transformed/emoji2-1.4.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/0a189176b3373df16a8deb755a153f3c/transformed/emoji2-1.4.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/0a189176b3373df16a8deb755a153f3c/transformed/emoji2-1.4.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/0a189176b3373df16a8deb755a153f3c/transformed/emoji2-1.4.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/0a189176b3373df16a8deb755a153f3c/transformed/emoji2-1.4.0/AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.16.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/acd9b07c7c51bbb3a67c029e94fb6ab4/transformed/core-1.16.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.16.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/acd9b07c7c51bbb3a67c029e94fb6ab4/transformed/core-1.16.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.16.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/acd9b07c7c51bbb3a67c029e94fb6ab4/transformed/core-1.16.0/AndroidManifest.xml:23:9-81
+permission#com.example.ecommerceapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.16.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/acd9b07c7c51bbb3a67c029e94fb6ab4/transformed/core-1.16.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.16.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/acd9b07c7c51bbb3a67c029e94fb6ab4/transformed/core-1.16.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.16.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/acd9b07c7c51bbb3a67c029e94fb6ab4/transformed/core-1.16.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.16.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/acd9b07c7c51bbb3a67c029e94fb6ab4/transformed/core-1.16.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.16.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/acd9b07c7c51bbb3a67c029e94fb6ab4/transformed/core-1.16.0/AndroidManifest.xml:26:22-94
+uses-permission#com.example.ecommerceapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.16.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/acd9b07c7c51bbb3a67c029e94fb6ab4/transformed/core-1.16.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.16.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/acd9b07c7c51bbb3a67c029e94fb6ab4/transformed/core-1.16.0/AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.9.4] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/7e7783abf0dc6cf9692a1c6e1f621c0f/transformed/lifecycle-process-2.9.4/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.9.4] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/7e7783abf0dc6cf9692a1c6e1f621c0f/transformed/lifecycle-process-2.9.4/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.9.4] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/7e7783abf0dc6cf9692a1c6e1f621c0f/transformed/lifecycle-process-2.9.4/AndroidManifest.xml:30:17-78
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.5.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/4ae50daf167407e6c9b2a7fb8446000f/transformed/play-services-basement-18.5.0/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.5.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/4ae50daf167407e6c9b2a7fb8446000f/transformed/play-services-basement-18.5.0/AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.5.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/4ae50daf167407e6c9b2a7fb8446000f/transformed/play-services-basement-18.5.0/AndroidManifest.xml:22:13-58
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/9e6f7b34243ad6fe48ba44c070be579f/transformed/profileinstaller-1.4.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/9e6f7b34243ad6fe48ba44c070be579f/transformed/profileinstaller-1.4.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/9e6f7b34243ad6fe48ba44c070be579f/transformed/profileinstaller-1.4.0/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/9e6f7b34243ad6fe48ba44c070be579f/transformed/profileinstaller-1.4.0/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/9e6f7b34243ad6fe48ba44c070be579f/transformed/profileinstaller-1.4.0/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/9e6f7b34243ad6fe48ba44c070be579f/transformed/profileinstaller-1.4.0/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/9e6f7b34243ad6fe48ba44c070be579f/transformed/profileinstaller-1.4.0/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/9e6f7b34243ad6fe48ba44c070be579f/transformed/profileinstaller-1.4.0/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/9e6f7b34243ad6fe48ba44c070be579f/transformed/profileinstaller-1.4.0/AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/9e6f7b34243ad6fe48ba44c070be579f/transformed/profileinstaller-1.4.0/AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/9e6f7b34243ad6fe48ba44c070be579f/transformed/profileinstaller-1.4.0/AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/9e6f7b34243ad6fe48ba44c070be579f/transformed/profileinstaller-1.4.0/AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/9e6f7b34243ad6fe48ba44c070be579f/transformed/profileinstaller-1.4.0/AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/9e6f7b34243ad6fe48ba44c070be579f/transformed/profileinstaller-1.4.0/AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/9e6f7b34243ad6fe48ba44c070be579f/transformed/profileinstaller-1.4.0/AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/9e6f7b34243ad6fe48ba44c070be579f/transformed/profileinstaller-1.4.0/AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/9e6f7b34243ad6fe48ba44c070be579f/transformed/profileinstaller-1.4.0/AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/9e6f7b34243ad6fe48ba44c070be579f/transformed/profileinstaller-1.4.0/AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/9e6f7b34243ad6fe48ba44c070be579f/transformed/profileinstaller-1.4.0/AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/9e6f7b34243ad6fe48ba44c070be579f/transformed/profileinstaller-1.4.0/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/9e6f7b34243ad6fe48ba44c070be579f/transformed/profileinstaller-1.4.0/AndroidManifest.xml:50:25-92
+activity#com.google.android.play.core.common.PlayCoreDialogWrapperActivity
+ADDED from [com.google.android.play:core-common:2.0.3] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/28acadc8a83614bbaf4d7a5541d28311/transformed/core-common-2.0.3/AndroidManifest.xml:14:9-18:65
+	android:stateNotNeeded
+		ADDED from [com.google.android.play:core-common:2.0.3] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/28acadc8a83614bbaf4d7a5541d28311/transformed/core-common-2.0.3/AndroidManifest.xml:17:13-42
+	android:exported
+		ADDED from [com.google.android.play:core-common:2.0.3] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/28acadc8a83614bbaf4d7a5541d28311/transformed/core-common-2.0.3/AndroidManifest.xml:16:13-37
+	android:theme
+		ADDED from [com.google.android.play:core-common:2.0.3] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/28acadc8a83614bbaf4d7a5541d28311/transformed/core-common-2.0.3/AndroidManifest.xml:18:13-62
+	android:name
+		ADDED from [com.google.android.play:core-common:2.0.3] /Users/ashusingla/Desktop/Android Developer/caches/transforms-4/28acadc8a83614bbaf4d7a5541d28311/transformed/core-common-2.0.3/AndroidManifest.xml:15:13-93
